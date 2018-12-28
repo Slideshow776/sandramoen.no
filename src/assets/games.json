@@ -1,0 +1,18 @@
+{
+    "test": {
+        "id": 0,
+        "title": "This is a title",
+        "subtitle": "This is a subtitle",
+        "description": "This is a description",
+        "image": "https://laughingsquid.com/wp-content/uploads/2016/09/tabby-cat-magic-casper.png?w=640",
+        "link": "www.google.com"
+    },
+    "test2": {
+        "id": 1,
+        "title": "This is a title",
+        "subtitle": "This is a subtitle",
+        "description": "This is a description",
+        "image": "https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/TfnFcik/cute-cartoon-dog-animation_eyrf-qofx__F0000.png",
+        "link": "www.google.com"
+    }
+}
