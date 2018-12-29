@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <h1 id="brand">Sandras Hjemmeside</h1>
-    <md-tabs md-sync-route class="md-transparent" md-alignment="centered">
+    <md-tabs md-sync-route class="md-primary" md-alignment="centered">
       <md-tab id="tab-home" md-label="Om meg">
         <Home />
       </md-tab>
