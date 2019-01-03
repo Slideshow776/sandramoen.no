@@ -34,6 +34,10 @@ export default {
 
 <style scoped>
 
+#component {
+  min-height: 100vh;
+}
+
 .md-card {
     margin: .5rem;
     display: inline-block;

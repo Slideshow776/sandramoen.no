@@ -22,13 +22,14 @@ export default {}
 .footer {
     background-color: #c2c505;
     position: fixed;
-    left: 0;
+    left: 0rem;
     bottom: 0;
     width: 100%;
     text-align: center;
     color: white;
     display: flex;
     justify-content: space-around;
+    height:5rem;
 }
 
 #mail {

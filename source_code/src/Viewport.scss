@@ -1,10 +1,9 @@
 @import "~vue-material/dist/theme/engine";
 
-@include md-register-theme("default", (
-  
-  primary: #c2c505, // The primary color of your brand
-  accent: #9211e8, // The secondary color of your brand
-  theme: dark // This can be dark or light
+@include md-register-theme("default", (  
+  primary: #c2c505,
+  accent: #9211e8,
+  theme: dark
 ));
 
 @import "~vue-material/dist/theme/all";
@@ -17,7 +16,7 @@
   color: #253544;
 }
 
-#brand {
+#header {
   background-color: #c2c505;
   margin-top: 0rem;
   margin-bottom: 0rem;

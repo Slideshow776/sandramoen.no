@@ -1,9 +1,9 @@
 <template>
   <div id="app">
-    <h1 id="brand">Sandras Hjemmeside</h1>
+    <h1 id="header">Sandras Hjemmeside</h1>
     <md-tabs md-sync-route class="md-primary" md-alignment="centered">
-      <md-tab id="tab-home" md-label="Om meg">
-        <Home />
+      <md-tab id="tab-about" md-label="Om meg">
+        <About />
       </md-tab>
       <md-tab id="tab-games" md-label="Spill">
         <Games />
@@ -14,7 +14,7 @@
 </template>
 
 <script>
-import Home from './components/Home'
+import About from './components/About'
 import Games from './components/Games'
 import Footer from './components/Footer'
 export default {
@@ -24,7 +24,7 @@ export default {
     }
   },
   components: {
-    Home,
+    About,
     Games,
     Footer
   }
