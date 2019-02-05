@@ -100,7 +100,7 @@ strong {
 .title {
   display:flex;
   margin-bottom:-1rem;
-  color:rgb(255, 255, 100);
+  color:rgb(255, 248, 181);
 }
 
 span {
@@ -126,7 +126,7 @@ li {
   height: .5rem;
   width: 5rem;
   margin-right:1rem;
-  background-color: magenta;
+  background-color:#9211e8;
 }
 
 .about {
