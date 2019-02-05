@@ -1,18 +1,42 @@
 {
-    "test": {
-        "id": 0,
-        "title": "This is a title",
-        "subtitle": "This is a subtitle",
-        "description": "This is a description",
-        "image": "https://laughingsquid.com/wp-content/uploads/2016/09/tabby-cat-magic-casper.png?w=640",
-        "link": "www.google.com"
-    },
-    "test2": {
+    "game4": {
         "id": 1,
-        "title": "This is a title",
-        "subtitle": "This is a subtitle",
-        "description": "This is a description",
-        "image": "https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/TfnFcik/cute-cartoon-dog-animation_eyrf-qofx__F0000.png",
-        "link": "www.google.com"
+        "title": "Cat Game",
+        "subtitle": "Motion control game",
+        "description": "This motion control game is about guiding the cats into the green portals by tilting your device. Once each cat has entered a portal the level ends, and the player is awarded a score. This game contains some mild violence, but is generally deemed appropriate to all ages. This is my very first published game. This game was created using LibGDX and Box2D.",
+        "image": "https://user-images.githubusercontent.com/4059636/52280544-7220e800-295c-11e9-8a4f-c07eac1ec213.PNG",
+        "link": "https://play.google.com/store/apps/details?id=com.sandra.game&hl=en"
+    },
+    "game1": {
+        "id": 1,
+        "title": "Flappy Bird",
+        "subtitle": "A copy of the infamous Flappy Bird",
+        "description": "This is my very own copy just to test my programming, LibGDX and Box2D skills",
+        "image": "https://user-images.githubusercontent.com/4059636/52277589-5a923100-2955-11e9-9599-673adbe3bdf6.PNG",
+        "link": "https://github.com/Slideshow776/Legacy-Games/tree/master/Flappy%20Bird"
+    },
+    "game2": {
+        "id": 1,
+        "title": "Postmania",
+        "subtitle": "A package delivery game",
+        "description": "A creative summer project about a post employe delivering packages to impatient customers. Plays in waves, and the challenge is to survive as long as possible.",
+        "image": "https://user-images.githubusercontent.com/4059636/52277591-5b2ac780-2955-11e9-8931-65c619434395.PNG",
+        "link": "https://github.com/Slideshow776/Legacy-Games/tree/master/Postmania"
+    },
+    "game0": {
+        "id": 0,
+        "title": "Janne's Adventure",
+        "subtitle": "2004 Bachelor assignment",
+        "description": "May not work with newer Java versions. This was my first serious game project. It's a basic side-scrolling adventure with a map and some platformer action",
+        "image": "https://user-images.githubusercontent.com/4059636/52279002-c5913700-2958-11e9-8a84-49931be08698.png",
+        "link": "https://github.com/Slideshow776/Legacy-Games/tree/master/Janne's%20Adventure"
+    },
+    "game3": {
+        "id": 1,
+        "title": "Game Station",
+        "subtitle": "A collection of small games",
+        "description": "A cooperative project practicing basic Java. The collection contains a circuit hacker game (where the goal is to complete the circuit), a Hangman game, a simple child-friendly memory game, the classical Minesweeper and also Tetris",
+        "image": "https://user-images.githubusercontent.com/4059636/52277590-5a923100-2955-11e9-8e53-e08c4f598305.PNG",
+        "link": "https://github.com/Slideshow776/Legacy-Games/tree/master/Game%20Station"
     }
 }

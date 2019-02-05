@@ -1,8 +1,8 @@
 <template>
     <div id="component">
-      <md-card md-with-hover v-bind:key="item.id" v-for="item in games">
+      <md-card class="card" md-with-hover v-bind:key="item.id" v-for="item in games">
         <md-card-media>
-          <img :src="item.image" style="width:15rem;" alt="cover-image">
+          <img :src="item.image" alt="cover-image">
         </md-card-media>
 
         <md-card-header>
@@ -33,6 +33,14 @@ export default {
 </script>
 
 <style scoped>
+
+.card {
+  background-color:#585858;
+}
+
+img {
+  width:15rem;
+}
 
 #component {
   min-height: 100vh;

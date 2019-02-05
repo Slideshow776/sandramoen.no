@@ -54,7 +54,7 @@ og API fra flere kilder.</div>
       </div>
         <ul>
           <li>tittel <span style="margin-right:3rem;"></span> <strong>Grunnleggende spillutvikling i Java</strong></li>
-          <div class="sub-description">Lage spillmotor, struktur og kartgenerator som støtter et enkelt sidescrolling platformer
+          <div class="sub-description">Lage spillmotor, struktur og kartgenerator som støtter et enkelt <a href="https://github.com/Slideshow776/Legacy-Games/tree/master/Janne's%20Adventure">sidescrolling platformer</a>
 spill.</div>
         </ul>
       <div class="title">
