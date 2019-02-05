@@ -1,6 +1,6 @@
 <template>
     <div id="component">
-      <md-card class="card" md-with-hover v-bind:key="item.id" v-for="item in games">
+      <md-card md-with-hover v-bind:key="item.id" v-for="item in games">
         <md-card-media>
           <img :src="item.image" alt="cover-image">
         </md-card-media>
@@ -12,7 +12,7 @@
 
         <md-card-content>
           {{item.description}}
-          <a :href="item.link">Link</a>
+          <a :href="item.link">Spillet kan lastes ned her</a>
         </md-card-content>
       </md-card>
     </div>
@@ -34,32 +34,26 @@ export default {
 
 <style scoped>
 
-.card {
-  background-color:#585858;
-}
-
 img {
-  width:15rem;
+  /* max-width:100%;
+  max-height:100%; */
+  min-height:20rem;
+  width: auto;
+  height: auto;
+  height:10rem;
 }
 
 #component {
-  min-height: 100vh;
+  min-height: 600vh;
 }
 
 .md-card {
-    margin: .5rem;
-    display: inline-block;
-    vertical-align: top;;
-}
-
-.md-card-media {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
-img {
-  height:10rem;
+  margin: .5rem;
+  display: inline-block;
+  vertical-align: top;
+  background-color:#585858;
+  max-width:35rem;
+  min-height:35rem;
 }
 
 </style>

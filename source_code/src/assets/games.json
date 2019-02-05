@@ -1,41 +1,42 @@
 {
-    "game4": {
-        "id": 1,
-        "title": "Cat Game",
-        "subtitle": "Motion control game",
-        "description": "This motion control game is about guiding the cats into the green portals by tilting your device. Once each cat has entered a portal the level ends, and the player is awarded a score. This game contains some mild violence, but is generally deemed appropriate to all ages. This is my very first published game. This game was created using LibGDX and Box2D.",
+    "game0": {
+        "id": 0,
+        "title": "Kattespill",
+        "subtitle": "Bevegelseskontroll spill",
+        "description": "Dette bevegelseskontroll spillet handler om å føre kattene inn i de grønne portalene ved hjelp av å snu og vende på din enhet. Når alle kattene har kommet inn i en portal slutter nivået og man får poeng etter dyktighet. Dette er mitt første publiserte mobilspill, og var laget i Java vha. rammeverkene LibGDX og Box2D.",
         "image": "https://user-images.githubusercontent.com/4059636/52280544-7220e800-295c-11e9-8a4f-c07eac1ec213.PNG",
         "link": "https://play.google.com/store/apps/details?id=com.sandra.game&hl=en"
     },
     "game1": {
         "id": 1,
         "title": "Flappy Bird",
-        "subtitle": "A copy of the infamous Flappy Bird",
-        "description": "This is my very own copy just to test my programming, LibGDX and Box2D skills",
-        "image": "https://user-images.githubusercontent.com/4059636/52277589-5a923100-2955-11e9-9599-673adbe3bdf6.PNG",
+        "subtitle": "En kopi av det berømte spillet Flappy Bird",
+        "description": "Et sommerprosjekt hvor jeg lagde min egen kopi av Flappy Bird for å teste mine programmeringsevner samt bruk av rammeverkene LibGDX og Box2D. Dette frustrerende spillet kan få de mest tolmodige av oss til å kaste maskinen i veggen.",
+        "image": "https://user-images.githubusercontent.com/4059636/52287449-78b65c00-296a-11e9-9a06-aad36f5e7a6e.PNG",
         "link": "https://github.com/Slideshow776/Legacy-Games/tree/master/Flappy%20Bird"
     },
     "game2": {
-        "id": 1,
+        "id": 2,
         "title": "Postmania",
-        "subtitle": "A package delivery game",
-        "description": "A creative summer project about a post employe delivering packages to impatient customers. Plays in waves, and the challenge is to survive as long as possible.",
-        "image": "https://user-images.githubusercontent.com/4059636/52277591-5b2ac780-2955-11e9-8931-65c619434395.PNG",
+        "subtitle": "Et pakkeleveringsspill",
+        "description": "Et pakkeleveringsspill som handler om en postansatt som skal levere rett pakke til rett kunde. Spillet spilles over flere runder, og utfordringen er å kunne holde ut lengst mulig før kundene blir for sure. Hvis du alltid har lurt på hvordan det er å være ansatt i Posten er dette høy-teknologiske simulator spillet akkuratt noe for deg!",
+        "image": "https://user-images.githubusercontent.com/4059636/52283651-29206200-2963-11e9-88c8-abf72b21ebcd.PNG",
         "link": "https://github.com/Slideshow776/Legacy-Games/tree/master/Postmania"
     },
-    "game0": {
-        "id": 0,
-        "title": "Janne's Adventure",
-        "subtitle": "2004 Bachelor assignment",
+    "game3": {
+        "id": 3,
+        "title": "Jannes Eventyr",
+        "subtitle": "2004 Bacheloroppgave",
         "description": "May not work with newer Java versions. This was my first serious game project. It's a basic side-scrolling adventure with a map and some platformer action",
-        "image": "https://user-images.githubusercontent.com/4059636/52279002-c5913700-2958-11e9-8a84-49931be08698.png",
+        "description": "Dette var mitt første seriøse spillprosjekt og min bacheloroppgave. Jeg var fast bestemt på å gjøre denne egendefinerte oppgaven, og det ble en suksess. Det er et basisk side-skrolling platformer eventyr spill. Spillet er oppkalt etter en kjær venn av meg. Kan hende ikke fungere med nyere Java-versjoner",
+        "image": "https://user-images.githubusercontent.com/4059636/52283318-8962d400-2962-11e9-8762-065ebbda1602.PNG",
         "link": "https://github.com/Slideshow776/Legacy-Games/tree/master/Janne's%20Adventure"
     },
-    "game3": {
-        "id": 1,
+    "game4": {
+        "id": 4,
         "title": "Game Station",
-        "subtitle": "A collection of small games",
-        "description": "A cooperative project practicing basic Java. The collection contains a circuit hacker game (where the goal is to complete the circuit), a Hangman game, a simple child-friendly memory game, the classical Minesweeper and also Tetris",
+        "subtitle": "En kolleksjon av flere småspill",
+        "description": "Et kooperativt prosjekt hvor vi øvde på grunnleggende Java programmering. Kolleksjonen inneholder et kretskortspill hvor målet er å slutte kretsen, et Hangmanspill, et barnevennlig minnespill hvor man skal få to like, den klassiske Minesweeper og alles favoritt Tetris",
         "image": "https://user-images.githubusercontent.com/4059636/52277590-5a923100-2955-11e9-8e53-e08c4f598305.PNG",
         "link": "https://github.com/Slideshow776/Legacy-Games/tree/master/Game%20Station"
     }

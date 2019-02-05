@@ -21,7 +21,7 @@ export default {}
 <style scoped>
 
 .footer {
-    background-color: #c2c505;
+    background-color: #aebd38;
     position: fixed;
     left: 0rem;
     bottom: 0;
@@ -45,7 +45,7 @@ li {
 }
 
 #contact:hover {
-    color:#9211e8;
+    color:#68829e;
 }
 
 #social-media {
@@ -62,11 +62,11 @@ li {
   text-decoration: none;
   position: relative;
   top: .5rem;
-  color:rgba(0, 0, 0);
+  color:#000000;
 }
 
 .fa:hover {
-    color:#9211e8;
+    color:#68829e;
 }
 
 </style>

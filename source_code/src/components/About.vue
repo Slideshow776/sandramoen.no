@@ -100,7 +100,17 @@ strong {
 .title {
   display:flex;
   margin-bottom:-1rem;
-  color:rgb(255, 248, 181);
+  /* color:rgb(255, 248, 181); */
+  color:#8cadd1;
+}
+
+.markers {
+  position: relative;
+  top: 1.5rem;
+  height: .5rem;
+  width: 5rem;
+  margin-right:1rem;
+  background-color:#8cadd1;
 }
 
 span {
@@ -120,15 +130,6 @@ li {
   list-style-type:none;
 }
 
-.markers {
-  position: relative;
-  top: 1.5rem;
-  height: .5rem;
-  width: 5rem;
-  margin-right:1rem;
-  background-color:#9211e8;
-}
-
 .about {
   /* margin-top: -2rem;
   margin-right: -1rem;
@@ -139,6 +140,7 @@ li {
   min-height: 300vh;
   max-width: 50rem;
   margin:auto;
+  /* background-color:#505160; */
 }
 
 img {
@@ -146,6 +148,10 @@ img {
   border: 1px solid #ddd;
   border-radius: 4px;
   width:15rem;
+}
+
+a, a:hover, a:visited {
+  color:#aebd38;
 }
 
 </style>

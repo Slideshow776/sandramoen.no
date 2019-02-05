@@ -1,8 +1,8 @@
 @import "~vue-material/dist/theme/engine";
 
 @include md-register-theme("default", (  
-  primary: #c2c505,
-  accent: #9211e8,
+  primary: #aebd38,
+  accent: #598234,
   theme: dark
 ));
 
@@ -17,9 +17,9 @@
 }
 
 #header {
-  background-color: #c2c505;
+  background-color: #aebd38;
   margin-top: 0rem;
   margin-bottom: 0rem;
-  padding-top:2rem;
-  padding-bottom:1rem;
+  padding-top:1.3rem;
+  padding-bottom:.3rem;
 }
