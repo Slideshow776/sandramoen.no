@@ -1,5 +1,5 @@
 <template>
-    <div id="component">
+    <div>
       <md-card md-with-hover v-bind:key="item.id" v-for="item in games">
         <md-card-media>
           <img :src="item.image" alt="cover-image">
@@ -23,28 +23,17 @@ import json from '@/assets/games.json'
 export default {
   name: 'Games',
   data: () => ({
-    games: json,
-    showDescription: false
-  }),
-  mounted () {},
-  computed: {},
-  methods: {}
+    games: json
+  })
 }
 </script>
 
 <style scoped>
-
 img {
-  /* max-width:100%;
-  max-height:100%; */
   min-height:20rem;
   width: auto;
   height: auto;
-  height:10rem;
-}
-
-#component {
-  min-height: 600vh;
+  max-height:10rem;
 }
 
 .md-card {
@@ -55,5 +44,4 @@ img {
   max-width:35rem;
   min-height:35rem;
 }
-
 </style>

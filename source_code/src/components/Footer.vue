@@ -3,7 +3,7 @@
         <div id="contact">
             <ul>
                 <li><a id="contact" href="mailto:sandramoen01@gmail.com" target="_top">Send en e-post</a></li>
-                <li><a id="contact" href="tel:47053281">Telefon: +47 47053281</a></li>
+                <li><a id="contact" href="tel:47053281">tlf: +47 47053281</a></li>
             </ul>
         </div>
         <div id="social-media">
@@ -15,11 +15,10 @@
 </template>
 
 <script>
-export default {}
+export default { name: 'Footer' }
 </script>
 
 <style scoped>
-
 .footer {
     background-color: #aebd38;
     position: fixed;
@@ -68,5 +67,4 @@ li {
 .fa:hover {
     color:#68829e;
 }
-
 </style>
