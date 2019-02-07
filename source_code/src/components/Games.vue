@@ -37,6 +37,10 @@ img {
   max-height:20rem;
 }
 
+.md-card-media {
+  overflow: hidden;
+}
+
 .md-card {
   margin: .5rem;
   display: inline-block;
