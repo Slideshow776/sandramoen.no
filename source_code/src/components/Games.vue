@@ -2,7 +2,7 @@
     <div>
       <md-card md-with-hover v-bind:key="item.id" v-for="item in games">
         <md-card-media>
-          <img :src="item.image" alt="cover-image">
+          <img style="max-height:20rem;width:auto;!important" :src="item.image" alt="cover-image">
         </md-card-media>
 
         <md-card-header>
@@ -12,7 +12,11 @@
 
         <md-card-content>
           {{item.description}}
-          <a :href="item.link">Spillet kan lastes ned her</a>
+          <a
+            :href="item.link"
+            onclick=trackGameClick(item.title)
+          >
+            Spillet kan lastes ned her</a>
         </md-card-content>
       </md-card>
     </div>
@@ -24,25 +28,16 @@ export default {
   name: 'Games',
   data: () => ({
     games: json
-  })
+  }),
+  methods: {
+    trackGameClick (title) {
+      window.dataLayer.push({'event': title})
+    }
+  }
 }
 </script>
 
 <style scoped>
-img {
-  /* min-height:20rem;
-  width: auto;
-  height: auto; */
-  width: auto;
-  height: auto;
-  max-height:20rem;
-}
-
-.md-card-media {
-  width: auto;
-  height: auto;
-  max-height:20rem;
-}
 
 .md-card {
   margin: .5rem;

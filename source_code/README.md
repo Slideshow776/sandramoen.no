@@ -1,6 +1,6 @@
 # Frontend in Vue
 
-> A Vue.js project
+> My webpage written as a single page application in Vue.js
 
 ## Build Setup
 
@@ -22,5 +22,10 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 
 This project uses [Vue Material](https://vuematerial.io)
 
-# Adding new games
-* Add information in source_code/src/assets/games.json
+__To add new games add information in file 'source_code/src/assets/games.json'__
+
+Google Tag Manager events:
+* 'Github-link'
+* 'Facebook-link'
+* 'Youtube-link'
+* Games, as found in 'source_code/src/assets/games.json': '{{title}}'
