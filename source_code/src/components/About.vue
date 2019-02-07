@@ -125,7 +125,7 @@ spill</td>
           <td>Spillprogrammering</td>
         </tr>
         <tr>
-          <td>Fekting</td>
+          <td><a href="https://www.youtube.com/results?search_query=swordfish+hema+longsword">Fekting</a></td>
         </tr>
       </table>
 
