@@ -38,6 +38,12 @@ img {
   max-height:20rem;
 }
 
+.md-card-media {
+  width: auto;
+  height: auto;
+  max-height:20rem;
+}
+
 .md-card {
   margin: .5rem;
   display: inline-block;
