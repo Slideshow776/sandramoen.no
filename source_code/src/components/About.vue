@@ -143,11 +143,22 @@ spill</td>
         </tr>
       </table>
     </div>
+  <div v-if="showMe"></div> <!-- The hack div -->
   </div>
 </template>
 
 <script>
-export default { name: 'About' }
+export default {
+  name: 'About',
+  data () {
+    return {
+      showMe: true
+    }
+  },
+  mounted () {
+    setTimeout(() => { this.showMe = false }, 500) // A hack to force rerendering of component so that it displays properly
+  }
+}
 </script>
 
 <style scoped>
