@@ -19,7 +19,7 @@
         "id": 2,
         "title": "Postmania",
         "subtitle": "Et pakkeleveringsspill",
-        "description": "Et pakkeleveringsspill som handler om en postansatt som skal levere rett pakke til rett kunde. Spillet spilles over flere runder, og utfordringen er å kunne holde ut lengst mulig før kundene blir for sure. Hvis du alltid har lurt på hvordan det er å være ansatt i Posten er dette høy-teknologiske simulator spillet akkuratt noe for deg!",
+        "description": "Et pakkeleveringsspill som handler om en postansatt som skal levere rett pakke til rett kunde. Spillet spilles over flere runder, og utfordringen er å kunne holde ut lengst mulig før kundene blir for sure.",
         "image": "https://user-images.githubusercontent.com/4059636/52283651-29206200-2963-11e9-88c8-abf72b21ebcd.PNG",
         "link": "https://github.com/Slideshow776/Legacy-Games/tree/master/Postmania"
     },

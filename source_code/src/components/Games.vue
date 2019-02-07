@@ -12,6 +12,7 @@
 
         <md-card-content>
           {{item.description}}
+          <br>
           <a :href="item.link">Spillet kan lastes ned her</a>
         </md-card-content>
       </md-card>
@@ -30,10 +31,10 @@ export default {
 
 <style scoped>
 img {
-  min-height:20rem;
+  /* min-height:20rem; */
   width: auto;
   height: auto;
-  max-height:10rem;
+  max-height:20rem;
 }
 
 .md-card {
@@ -42,6 +43,6 @@ img {
   vertical-align: top;
   background-color:#585858;
   max-width:35rem;
-  min-height:35rem;
+  height:35rem;
 }
 </style>
