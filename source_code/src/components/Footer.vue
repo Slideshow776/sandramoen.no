@@ -9,15 +9,15 @@
         <div id="social-media">
             <a
                 href="https://www.facebook.com/sandra.doe.543" style="color:white"><i class="fa fa-facebook-square"
-                onclick="dataLayer.push({'event': 'Facebook-link'})"
+                onclick="window.dataLayer.push({'event': 'Facebook-link'})"
             ></i></a>
             <a
                 href="https://www.youtube.com/channel/UCiWvUG5AeJ1lAkvlq0V-2cg?view_as=subscriber" style="color:white"
-                onclick="dataLayer.push({'event': 'Youtube-link'})"
+                onclick="window.dataLayer.push({'event': 'Youtube-link'})"
             ><i class="fa fa-youtube-square"></i></a>
             <a
                 href="https://github.com/Slideshow776" style="color:white"
-                onclick="dataLayer.push({'event': 'Github-link'})"
+                onclick="window.dataLayer.push({'event': 'Github-link'})"
             ><i class="fa fa-github"></i></a>
         </div>
     </div>
