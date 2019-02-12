@@ -13,8 +13,8 @@
         <md-card-content>
           {{item.description}}
           <a
-            :href="item.link"
-            onclick=trackGameClick(item.title)
+            :href="item.link"            
+            @click="trackInteraction(item.title)"
           >
             Spillet kan lastes ned her</a>
         </md-card-content>
@@ -30,9 +30,9 @@ export default {
     games: json
   }),
   methods: {
-    trackGameClick (title) {
-      window.dataLayer.push({'event': title})
-    }
+	trackInteraction (label) {
+		window.dataLayer.push({'event': String(label)})
+	}
   }
 }
 </script>
