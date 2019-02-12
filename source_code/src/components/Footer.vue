@@ -1,10 +1,7 @@
 <template>
     <div class="footer">
         <div id="contact">
-            <ul>
-                <li><a id="contact" href="mailto:sandramoen01@gmail.com" target="_top">Send en e-post</a></li>
-                <li><a id="contact" href="tel:47053281">tlf: 47053281</a></li>
-            </ul>
+            <a id="contact" href="mailto:sandramoen01@gmail.com" target="_top">Send en e-post</a>
         </div>
         <div id="social-media">
             <a
@@ -24,12 +21,12 @@
 </template>
 
 <script>
-export default { 
+export default {
   name: 'Footer',
   methods: {
-	trackInteraction (label) {
+    trackInteraction (label) {
       window.dataLayer.push({'event': String(label)})
-	}
+    }
   }
 }
 </script>
@@ -54,7 +51,7 @@ li {
 
 #contact {
     position:relative;
-    top:-.3rem;
+    top:.4rem;
     color:rgb(0, 0, 0);
     font-weight: 600;
 }

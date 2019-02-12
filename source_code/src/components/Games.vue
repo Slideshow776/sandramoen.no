@@ -13,7 +13,7 @@
         <md-card-content>
           {{item.description}}
           <a
-            :href="item.link"            
+            :href="item.link"
             @click="trackInteraction(item.title)"
           >
             Spillet kan lastes ned her</a>
@@ -30,9 +30,9 @@ export default {
     games: json
   }),
   methods: {
-	trackInteraction (label) {
-		window.dataLayer.push({'event': String(label)})
-	}
+    trackInteraction (label) {
+      window.dataLayer.push({'event': String(label)})
+    }
   }
 }
 </script>
