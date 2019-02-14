@@ -58,7 +58,7 @@ Python. Webanalyse og sporing med fokus på Google Analytics og Google Tag Manag
           </tr>
           <tr>
             <td valign="top">juni-august</td>
-            <td>Utviklet <a href="http://olapp.no/#/">webapplikasjon</a> for kunde, lagd i React-Redux (Javascript)</td>
+            <td>Utviklet <a href="http://olapp.no/#/" onclick="dataLayer.push({'event': 'tracking-test'});">webapplikasjon</a> for kunde, lagd i React-Redux (Javascript)</td>
           </tr>
         </table>
       <div class="title">

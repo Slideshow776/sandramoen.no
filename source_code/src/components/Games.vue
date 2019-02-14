@@ -16,6 +16,7 @@
             :href="item.link"
             @click="trackInteraction(item.title)"
           >
+		   <!-- @click="mixin.trackInteraction(item.title)" -->
             Spillet kan lastes ned her</a>
         </md-card-content>
       </md-card>
@@ -24,6 +25,7 @@
 
 <script>
 import json from '@/assets/games.json'
+import mixin from '../mixin'
 export default {
   name: 'Games',
   data: () => ({
