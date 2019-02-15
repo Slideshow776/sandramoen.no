@@ -1,7 +1,7 @@
 <template>
     <div class="footer">
         <div id="contact">
-            <a id="contact" href="mailto:sandramoen01@gmail.com" target="_top">Send en e-post</a>
+            <a id="contact" href="mailto:sandramoen01@gmail.com" target="_top">Send en e-post!</a>
         </div>
         <div id="social-media">
             <a
