@@ -58,7 +58,7 @@ Python. Webanalyse og sporing med fokus på Google Analytics og Google Tag Manag
           </tr>
           <tr>
             <td valign="top">juni-august</td>
-            <td>Utviklet <a href="http://olapp.no/#/" onclick="dataLayer.push({'event': 'tracking-test'});">webapplikasjon</a> for kunde, lagd i React-Redux (Javascript)</td>
+            <td>Utviklet <a href="http://olapp.no/#/" @mousedown="trackInteraction('Ølapp')">webapplikasjon</a> for kunde, lagd i React-Redux (Javascript)</td>
           </tr>
         </table>
       <div class="title">
@@ -71,7 +71,7 @@ Python. Webanalyse og sporing med fokus på Google Analytics og Google Tag Manag
         </tr>
         <tr>
           <td valign="top">beskrivelse</td>
-          <td><a href="https://github.com/Slideshow776/DATMAS-V18">Prototype</a> av analyseverktøy i forsøk på å oppdage når influensasesongen starter vha. datasett
+          <td><a href="https://github.com/Slideshow776/DATMAS-V18" @mousedown="trackInteraction('Masteroppgave')">Prototype</a> av analyseverktøy i forsøk på å oppdage når influensasesongen starter vha. datasett
 og API fra flere kilder</td>
         </tr>
       </table>
@@ -85,7 +85,7 @@ og API fra flere kilder</td>
         </tr>
         <tr>
           <td valign="top">beskrivelse</td>
-          <td>Lage spillmotor, struktur og kartgenerator som støtter et enkelt <a href="https://github.com/Slideshow776/Legacy-Games/tree/master/Janne's%20Adventure">sidescrolling platformer</a>
+          <td>Lage spillmotor, struktur og kartgenerator som støtter et enkelt <a href="https://github.com/Slideshow776/Legacy-Games/tree/master/Janne's%20Adventure" @mousedown="trackInteraction('Bacheloroppgave')">sidescrolling platformer</a>
 spill</td>
         </tr>
       </table>
@@ -125,7 +125,7 @@ spill</td>
           <td>Spillprogrammering</td>
         </tr>
         <tr>
-          <td><a href="https://www.youtube.com/results?search_query=swordfish+hema+longsword">Fekting</a></td>
+          <td><a href="https://www.youtube.com/results?search_query=swordfish+hema+longsword" @mousedown="trackInteraction('Fekting')">Fekting</a></td>
         </tr>
       </table>
 
@@ -157,6 +157,11 @@ export default {
   },
   mounted () {
     setTimeout(() => { this.showMe = false }, 500) // A hack to force rerendering of component so that it displays properly
+  },
+  methods: {
+    trackInteraction (label) {
+      window.dataLayer.push({'event': String(label)})
+    }
   }
 }
 </script>

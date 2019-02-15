@@ -6,15 +6,15 @@
         <div id="social-media">
             <a
                 href="https://www.facebook.com/sandra.doe.543" style="color:white"><i class="fa fa-facebook-square"
-                @click="trackInteraction('Facebook')"
+                @mousedown="trackInteraction('Facebook')"
             ></i></a>
             <a
                 href="https://www.youtube.com/channel/UCiWvUG5AeJ1lAkvlq0V-2cg?view_as=subscriber" style="color:white"
-                @click="trackInteraction('Youtube')"
+                @mousedown="trackInteraction('Youtube')"
             ><i class="fa fa-youtube-square"></i></a>
             <a
                 href="https://github.com/Slideshow776" style="color:white"
-                @click="trackInteraction('Github')"
+                @mousedown="trackInteraction('Github')"
             ><i class="fa fa-github"></i></a>
         </div>
     </div>

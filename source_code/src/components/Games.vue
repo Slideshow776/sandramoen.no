@@ -14,7 +14,7 @@
           {{item.description}}
           <a
             :href="item.link"
-            @click="trackInteraction(item.title)"
+            @mousedown="trackInteraction(item.title)"
           >
             Spillet kan lastes ned her</a>
         </md-card-content>
