@@ -22,9 +22,14 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 
 This project uses [Vue Material](https://vuematerial.io)
 
-__To add new games add information in file 'source_code/src/assets/games.json'__
+## Updating the webpage
+To add new games add information in file 'source_code/src/assets/games.json'
+## Updating:
+* run `npm run build`
+* Copy everything from `source_code/dist` and paste it in the top directory `/`.
 
-Google Tag Manager events:
+
+## Google Tag Manager events:
 * 'Github-link'
 * 'Facebook-link'
 * 'Youtube-link'
