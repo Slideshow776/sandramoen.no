@@ -125,7 +125,7 @@ spill</td>
           <td>Spillprogrammering</td>
         </tr>
         <tr>
-          <td><a href="https://www.youtube.com/watch?v=oUHmHHSbLbU&t=139s" @mousedown="trackInteraction('Fekting')">Fekting</a></td>
+          <td><a href="https://www.youtube.com/watch?v=oUHmHHSbLbU" @mousedown="trackInteraction('Fekting')">Fekting</a></td>
         </tr>
       </table>
 
