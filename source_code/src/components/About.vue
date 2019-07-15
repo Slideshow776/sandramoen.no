@@ -42,8 +42,12 @@ operativsystemer, databaser, statistikk</td>
       </div>
       <table>
           <tr >
+            <td valign="top" style="width:5rem;">2019 (Pågående)</td>
+            <td><span>Enonic Specialist</span>, <a href="https://enonic.com">Enonic</a>, Oslo</td>
+          </tr>
+          <tr >
             <td valign="top" style="width:5rem;">2018-2019</td>
-            <td><span>Data Engineer</span>, RedPerformance, Oslo (pågående)</td>
+            <td><span>Data Engineer</span>, <a href="https://redperformance.no">RedPerformance</a>, Oslo</td>
           </tr>
           <tr>
             <td></td>
@@ -54,7 +58,7 @@ Python. Webanalyse og sporing med fokus på Google Analytics og Google Tag Manag
       <table>
           <tr >
             <td valign="top" style="width:5rem;">2017</td>
-            <td><span>Full-Stack Webutvikler</span>, Knowit Stavanger</td>
+            <td><span>Full-Stack Webutvikler</span>, <a href="https://www.knowit.no">Knowit</a>, Stavanger</td>
           </tr>
           <tr>
             <td valign="top">juni-august</td>
