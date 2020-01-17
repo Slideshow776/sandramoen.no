@@ -12,7 +12,7 @@ De beste timene er om morgenene, god diett, kropp, sinn og samhold gir en jevn o
 arbeidsflyt.</p>
     <div style="text-align:left">
       <div class="title">
-        <div class="markers"></div><h3>Utdannelse</h3>
+        <div class="markers"></div><h3>Utdanning</h3>
       </div>
         <table>
           <tr >
@@ -42,15 +42,20 @@ operativsystemer, databaser, statistikk</td>
       </div>
       <table>
           <tr >
-            <td valign="top" style="width:5rem;">2019 (Pågående)</td>
-            <td><span>Enonic Specialist</span>, <a href="https://enonic.com">Enonic</a>, Oslo</td>
+            <td valign="top" style="width:5rem;">2019-2020</td>
+            <td><span>Enonic Specialist</span>, <a target="_blank" href="https://enonic.com">Enonic</a>, Oslo</td>
+          </tr>
+          <tr>
+            <td valign="top">april-mai</td>
+            <td>Frontend utvikling av webbasert <a target="_blank" href="https://market.enonic.com/vendors/enonic/event-theme" @mousedown="trackInteraction('EventTheme')">markedsapplikasjon</a>, lagd i Enonic XP vha. Javascript og
+Thymeleaf. Migreringsarbeid og videreutvikling av kundenettsider vba. Enonic XP.</td>
           </tr>
           <tr >
             <td valign="top" style="width:5rem;">2018-2019</td>
-            <td><span>Data Engineer</span>, <a href="https://redperformance.no">RedPerformance</a>, Oslo</td>
+            <td><span>Data Engineer</span>, <a target="_blank" href="https://redperformance.no">RedPerformance</a>, Oslo</td>
           </tr>
           <tr>
-            <td></td>
+            <td valign="top">juni-mars</td>
             <td>Full-Stack utvikling av webbaserte interne forretningssystemer, lagd i Vue.js (Javascript) og
 Python. Webanalyse og sporing med fokus på Google Analytics og Google Tag Manager.</td>
           </tr>
@@ -58,11 +63,11 @@ Python. Webanalyse og sporing med fokus på Google Analytics og Google Tag Manag
       <table>
           <tr >
             <td valign="top" style="width:5rem;">2017</td>
-            <td><span>Full-Stack Webutvikler</span>, <a href="https://www.knowit.no">Knowit</a>, Stavanger</td>
+            <td><span>Full-Stack Webutvikler</span>, <a target="_blank" href="https://www.knowit.no">Knowit</a>, Stavanger</td>
           </tr>
           <tr>
             <td valign="top">juni-august</td>
-            <td>Utviklet <a href="http://olapp.no/#/" @mousedown="trackInteraction('Ølapp')">webapplikasjon</a> for kunde, lagd i React-Redux (Javascript)</td>
+            <td>Utviklet <a target="_blank" href="http://olapp.no/#/" @mousedown="trackInteraction('Ølapp')">webapplikasjon</a> for kunde, lagd i React-Redux (Javascript)</td>
           </tr>
         </table>
       <div class="title">
@@ -75,7 +80,7 @@ Python. Webanalyse og sporing med fokus på Google Analytics og Google Tag Manag
         </tr>
         <tr>
           <td valign="top">beskrivelse</td>
-          <td><a href="https://github.com/Slideshow776/DATMAS-V18" @mousedown="trackInteraction('Masteroppgave')">Prototype</a> av analyseverktøy i forsøk på å oppdage når influensasesongen starter vha. datasett
+          <td><a target="_blank" href="https://github.com/Slideshow776/DATMAS-V18" @mousedown="trackInteraction('Masteroppgave')">Prototype</a> av analyseverktøy i forsøk på å oppdage når influensasesongen starter vha. datasett
 og API fra flere kilder</td>
         </tr>
       </table>
@@ -89,7 +94,7 @@ og API fra flere kilder</td>
         </tr>
         <tr>
           <td valign="top">beskrivelse</td>
-          <td>Lage spillmotor, struktur og kartgenerator som støtter et enkelt <a href="https://github.com/Slideshow776/Legacy-Games/tree/master/Janne's%20Adventure" @mousedown="trackInteraction('Bacheloroppgave')">sidescrolling platformer</a>
+          <td>Lage spillmotor, struktur og kartgenerator som støtter et enkelt <a target="_blank" href="https://github.com/Slideshow776/Legacy-Games/tree/master/Janne's%20Adventure" @mousedown="trackInteraction('Bacheloroppgave')">sidescrolling platformer</a>
 spill</td>
         </tr>
       </table>
@@ -97,7 +102,6 @@ spill</td>
       <div class="title">
         <div class="markers"></div><h3>Programmeringsspråk</h3>
       </div>
-
       <table> <!-- Programmeringsspråk -->
         <tr >
           <td valign="top" style="width:5rem;">Java</td>
@@ -105,6 +109,10 @@ spill</td>
         </tr>
         <tr>
           <td>JavaScript</td>
+          <td>Mye erfaring</td>
+        </tr>
+        <tr>
+          <td>CSS</td>
           <td>Mye erfaring</td>
         </tr>
         <tr>
@@ -117,7 +125,33 @@ spill</td>
         </tr>
         <tr>
           <td>Kotlin</td>
-          <td>Litt erfaring</td>
+          <td>Endel erfaring</td>
+        </tr>
+      </table>
+
+      <div class="title">
+        <div class="markers"></div><h3>Rammeverk</h3>
+      </div>
+      <table> <!-- Rammeverk -->
+        <tr >
+          <td valign="top" style="width:5rem;">Enonic XP</td>
+          <td>Mye erfaring, har lisens</td>
+        </tr>
+        <tr>
+          <td>Sass</td>
+          <td>Mye erfaring</td>
+        </tr>
+        <tr>
+          <td>Vue</td>
+          <td>Endel erfaring</td>
+        </tr>
+        <tr>
+          <td>Flask</td>
+          <td>Endel erfaring</td>
+        </tr>
+        <tr>
+          <td>React</td>
+          <td>Noe erfaring</td>
         </tr>
       </table>
 
@@ -129,7 +163,7 @@ spill</td>
           <td>Spillprogrammering</td>
         </tr>
         <tr>
-          <td><a href="https://www.youtube.com/watch?v=oUHmHHSbLbU" @mousedown="trackInteraction('Fekting')">Fekting</a></td>
+          <td><a target="_blank" href="https://www.youtube.com/watch?v=oUHmHHSbLbU" @mousedown="trackInteraction('Fekting')">Fekting</a></td>
         </tr>
       </table>
 

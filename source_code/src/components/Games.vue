@@ -2,7 +2,10 @@
     <div>
       <md-card md-with-hover v-bind:key="item.id" v-for="item in games">
         <md-card-media>
-          <img style="max-height:20rem;width:auto;!important" :src="item.image" alt="cover-image">
+          <a target="_blank"
+            :href="item.link"
+            @mousedown="trackInteraction(item.title)"
+          ><img style="max-height:20rem;width:auto;!important" :src="item.image" alt="cover-image"></a>
         </md-card-media>
 
         <md-card-header>
@@ -12,11 +15,10 @@
 
         <md-card-content>
           {{item.description}}
-          <a
+          <a target="_blank"
             :href="item.link"
             @mousedown="trackInteraction(item.title)"
-          >
-            Spillet kan lastes ned her</a>
+          >Spillet kan lastes ned her</a>
         </md-card-content>
       </md-card>
     </div>
