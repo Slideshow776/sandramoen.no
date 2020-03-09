@@ -41,29 +41,35 @@ operativsystemer, databaser, statistikk</td>
         <div class="markers"></div><h3>Arbeidserfaring</h3>
       </div>
       <table>
-          <tr >
+          <tr>
+            <td valign="top" style="width:5rem;">2020</td>
+            <td><span>Systemutvikler</span>, <a target="_blank" href="https://www.knowit.no/tjenester/experience/">Knowit Experience</a>, Oslo (pågående)</td>
+          </tr>
+          <tr>
+            <td valign="top">mars</td>
+            <td>Frontend utvikling av webbaserte løsninger</td>
+          </tr>
+          <tr>
             <td valign="top" style="width:5rem;">2019-2020</td>
             <td><span>Enonic Specialist</span>, <a target="_blank" href="https://enonic.com">Enonic</a>, Oslo</td>
           </tr>
           <tr>
-            <td valign="top">april-mai</td>
+            <td valign="top">april-mars</td>
             <td>Frontend utvikling av webbasert <a target="_blank" href="https://market.enonic.com/vendors/enonic/event-theme" @mousedown="trackInteraction('EventTheme')">markedsapplikasjon</a>, lagd i Enonic XP vha. Javascript og
 Thymeleaf. Migreringsarbeid og videreutvikling av kundenettsider vba. Enonic XP.</td>
           </tr>
           <tr >
             <td valign="top" style="width:5rem;">2018-2019</td>
-            <td><span>Data Engineer</span>, <a target="_blank" href="https://redperformance.no">RedPerformance</a>, Oslo</td>
+            <td><span>Data Engineer</span>, <a target="_blank" href="https://redperformance.no">RED Performance</a>, Oslo</td>
           </tr>
           <tr>
             <td valign="top">juni-mars</td>
             <td>Full-Stack utvikling av webbaserte interne forretningssystemer, lagd i Vue.js (Javascript) og
 Python. Webanalyse og sporing med fokus på Google Analytics og Google Tag Manager.</td>
           </tr>
-        </table>
-      <table>
           <tr >
             <td valign="top" style="width:5rem;">2017</td>
-            <td><span>Full-Stack Webutvikler</span>, <a target="_blank" href="https://www.knowit.no">Knowit</a>, Stavanger</td>
+            <td><span>Frontend Webutvikler</span>, <a target="_blank" href="https://www.knowit.no">Knowit</a>, Stavanger</td>
           </tr>
           <tr>
             <td valign="top">juni-august</td>
