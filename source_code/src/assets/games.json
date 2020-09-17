@@ -4,7 +4,7 @@
         "title": "Korona Kablam-i!",
         "subtitle": "Et COVID-19 tematisert shoot 'em up arkadespill",
         "description": "Dette er et COVID-19 tematisert shoot'em up arkadespill. Spilleren kontrollerer et bittelite romskip og skyter på koronavirus. Spreng så mange du kan for å få en high score.",
-        "image": "https://user-images.githubusercontent.com/4059636/87563219-42345300-c6bf-11ea-9a4f-9bfb087e11a5.PNG",
+        "image": "https://user-images.githubusercontent.com/4059636/93439722-2f144e00-f8cf-11ea-90f5-228214718a9a.png",
         "link": "https://github.com/Slideshow776/Korona-Kablam-i/tree/master/release"
     },
     "game1": {
@@ -12,7 +12,7 @@
         "title": "Love Entity",
         "subtitle": "Et idle/inkrementell spill som handler om kjærlighet og medfølelse",
         "description": "Love Entity er et kjærlighetstematisert inkrementellt spill. Spilleren håndterer inkrementelle gevinster ved å klikke og å ta vare på ulike ressurser for å generere så mye kjærlighet som overhode mulig. Oppløftningspoeng gir spilleren en sjangse til å begynne på ny med en bonus som videre øker akkumulasjonen for kjærlighet. Laget i Kotlin vha. rammeverket LibGDX.",
-        "image": "https://user-images.githubusercontent.com/4059636/81054817-cb612980-8ec7-11ea-9506-b61c44d66aba.png",
+        "image": "https://user-images.githubusercontent.com/4059636/93439955-7569ad00-f8cf-11ea-931f-7dc267afbea3.png",
         "link": "https://play.google.com/store/apps/details?id=no.sandramoen.loveentity"
     },
     "game2": {
@@ -20,7 +20,7 @@
         "title": "Suicide?",
         "subtitle": "Livs-tematisert historie-drevet spill",
         "description": "Dette historie-drevet spillet utforsker følelser, behov og selvmord. Laget i Kotlin vha. rammeverket LibGDX.",
-        "image": "https://user-images.githubusercontent.com/4059636/60807955-72314800-a187-11e9-96ae-7c423aa12679.png",
+        "image": "https://user-images.githubusercontent.com/4059636/93445030-1b69e700-f8d1-11ea-8107-37531ff028af.png",
         "link": "https://github.com/Slideshow776/Suicide"
     },
     "game3": {
@@ -28,7 +28,7 @@
         "title": "Kattespill",
         "subtitle": "Bevegelseskontroll spill",
         "description": "Dette bevegelseskontroll spillet handler om å føre kattene inn i de grønne portalene ved hjelp av å snu og vende på din enhet. Når alle kattene har kommet inn i en portal slutter nivået og man får poeng etter dyktighet. Dette er mitt første publiserte mobilspill, og var laget i Java vha. rammeverkene LibGDX og Box2D.",
-        "image": "https://user-images.githubusercontent.com/4059636/52280544-7220e800-295c-11e9-8a4f-c07eac1ec213.PNG",
+        "image": "https://user-images.githubusercontent.com/4059636/93440732-dbeecb00-f8cf-11ea-8d17-24efa7cc6765.png",
         "link": "https://play.google.com/store/apps/details?id=com.sandra.game&hl=en"
     },
     "game4": {
@@ -36,7 +36,7 @@
         "title": "Flappy Bird",
         "subtitle": "En kopi av det berømte spillet Flappy Bird",
         "description": "Et sommerprosjekt hvor jeg lagde min egen kopi av Flappy Bird for å teste mine programmeringsevner samt bruk av rammeverkene LibGDX og Box2D. Dette frustrerende spillet kan få de mest tolmodige av oss til å kaste maskinen i veggen.",
-        "image": "https://user-images.githubusercontent.com/4059636/52287449-78b65c00-296a-11e9-9a06-aad36f5e7a6e.PNG",
+        "image": "https://user-images.githubusercontent.com/4059636/93444264-d0e86a80-f8d0-11ea-9f8c-5fae252930d3.png",
         "link": "https://github.com/Slideshow776/Legacy-Games/tree/master/Flappy%20Bird"
     },
     "game5": {
@@ -44,7 +44,7 @@
         "title": "Postmania",
         "subtitle": "Et pakkeleveringsspill",
         "description": "Et pakkeleveringsspill som handler om en postansatt som skal levere rett pakke til rett kunde. Spillet spilles over flere runder, og utfordringen er å kunne holde ut lengst mulig før kundene blir for sure.",
-        "image": "https://user-images.githubusercontent.com/4059636/52283651-29206200-2963-11e9-88c8-abf72b21ebcd.PNG",
+        "image": "https://user-images.githubusercontent.com/4059636/93441857-26704780-f8d0-11ea-8b49-d7055c0a7241.png",
         "link": "https://github.com/Slideshow776/Legacy-Games/tree/master/Postmania"
     },
     "game6": {
@@ -53,7 +53,7 @@
         "subtitle": "2004 Bacheloroppgave",
         "description": "May not work with newer Java versions. This was my first serious game project. It's a basic side-scrolling adventure with a map and some platformer action",
         "description": "Dette var mitt første seriøse spillprosjekt og min bacheloroppgave. Jeg var fast bestemt på å gjøre denne egendefinerte oppgaven, og det ble en suksess. Det er et basisk side-skrolling platformer eventyr spill. Spillet er oppkalt etter en kjær venn av meg. Kan hende ikke fungere med nyere Java-versjoner",
-        "image": "https://user-images.githubusercontent.com/4059636/52283318-8962d400-2962-11e9-8762-065ebbda1602.PNG",
+        "image": "https://user-images.githubusercontent.com/4059636/93442762-66372f00-f8d0-11ea-8814-42b13a6d7530.png",
         "link": "https://github.com/Slideshow776/Legacy-Games/tree/master/Janne's%20Adventure"
     },
     "game7": {
@@ -61,7 +61,7 @@
         "title": "Game Station",
         "subtitle": "En kolleksjon av flere småspill",
         "description": "Et kooperativt prosjekt hvor vi øvde på grunnleggende Java programmering. Kolleksjonen inneholder et kretskortspill hvor målet er å slutte kretsen, et Hangmanspill, et barnevennlig minnespill hvor man skal få to like, den klassiske Minesweeper og alles favoritt Tetris",
-        "image": "https://user-images.githubusercontent.com/4059636/52277590-5a923100-2955-11e9-8e53-e08c4f598305.PNG",
+        "image": "https://user-images.githubusercontent.com/4059636/93443530-9bdc1800-f8d0-11ea-8fce-4b7720d6d404.png",
         "link": "https://github.com/Slideshow776/Legacy-Games/tree/master/Game%20Station"
     }
 }

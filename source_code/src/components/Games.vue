@@ -1,27 +1,32 @@
 <template>
-    <div>
-      <md-card md-with-hover v-bind:key="item.id" v-for="item in games">
-        <md-card-media>
-          <a target="_blank"
-            :href="item.link"
-            @mousedown="trackInteraction(item.title)"
-          ><img style="max-height:20rem;width:auto;!important" :src="item.image" alt="cover-image"></a>
-        </md-card-media>
+  <div>
+    <md-card md-with-hover v-bind:key="item.id" v-for="item in games">
+      <md-card-media>
+        <a target="_blank" :href="item.link" @mousedown="trackInteraction(item.title)">
+          <img
+            style="max-height:20rem;width:auto;!important"
+            :src="item.image"
+            alt="cover-image"
+            loading="lazy"
+          />
+        </a>
+      </md-card-media>
 
-        <md-card-header>
-          <div class="md-title">{{item.title}}</div>
-          <div class="md-subhead">{{item.subtitle}}</div>
-        </md-card-header>
+      <md-card-header>
+        <div class="md-title">{{item.title}}</div>
+        <div class="md-subhead">{{item.subtitle}}</div>
+      </md-card-header>
 
-        <md-card-content>
-          {{item.description}}
-          <a target="_blank"
-            :href="item.link"
-            @mousedown="trackInteraction(item.title)"
-          >Spillet kan lastes ned her</a>
-        </md-card-content>
-      </md-card>
-    </div>
+      <md-card-content>
+        {{item.description}}
+        <a
+          target="_blank"
+          :href="item.link"
+          @mousedown="trackInteraction(item.title)"
+        >Spillet kan lastes ned her</a>
+      </md-card-content>
+    </md-card>
+  </div>
 </template>
 
 <script>
@@ -34,20 +39,19 @@ export default {
   }),
   methods: {
     trackInteraction (label) {
-      window.dataLayer.push({'event': String(label)})
+      window.dataLayer.push({ event: String(label) })
     }
   }
 }
 </script>
 
 <style scoped>
-
 .md-card {
-  margin: .5rem;
+  margin: 0.5rem;
   display: inline-block;
   vertical-align: top;
-  background-color:#585858;
-  max-width:35rem;
-  min-height:35rem;
+  background-color: #585858;
+  max-width: 35rem;
+  min-height: 35rem;
 }
 </style>
