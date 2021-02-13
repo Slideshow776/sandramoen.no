@@ -189,12 +189,16 @@
           <td>Mye erfaring</td>
         </tr>
         <tr>
+          <td>Kotlin</td>
+          <td>Mye erfaring</td>
+        </tr>
+        <tr>
           <td>Go</td>
           <td>Endel erfaring</td>
         </tr>
         <tr>
-          <td>Kotlin</td>
-          <td>Endel erfaring</td>
+          <td>C#</td>
+          <td>Noe erfaring</td>
         </tr>
       </table>
 
@@ -291,7 +295,8 @@ export default {
 }
 </script>
 
-<style scoped>
+<style scoped lang="scss">
+$foreground-color: #8cadd1;
 #ingress {
   font-style: italic;
 }
@@ -303,7 +308,7 @@ strong {
 .title {
   display: flex;
   margin-bottom: -1rem;
-  color: #8cadd1;
+  color: $foreground-color;
 }
 
 .markers {
