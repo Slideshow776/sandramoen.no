@@ -198,6 +198,10 @@
         </tr>
         <tr>
           <td>C#</td>
+          <td>Endel erfaring</td>
+        </tr>
+        <tr>
+          <td>GLSL</td>
           <td>Noe erfaring</td>
         </tr>
       </table>
