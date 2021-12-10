@@ -19,6 +19,7 @@
 
       <md-card-content>
         {{item.description}}
+        <br>
         <a
           target="_blank"
           :href="item.link"

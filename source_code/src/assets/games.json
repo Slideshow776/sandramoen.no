@@ -3,17 +3,17 @@
         "id": 0,
         "title": "Blip Blop",
         "subtitle": "Et revisert Pong spill.",
-        "description": "Blip Blop er en remaster av et av de eldste videospillene i verdenshistorien. Spilleren kontrollerer en paddel på sin side av skjermen for å prøve å slå ballen bort fra seg selv, og score et mål ved å omgå den andre spillernes paddel. \n Spillet kan spilles alene, eller med en venn som deler samme enhet.\n Det er to spillemoduser som tilbys: Classic og Challenge. \n Classic er det klassiske spillet Pong, og Challenge byr på tilfeldige utfordringer.",
-        "image": "https://user-images.githubusercontent.com/4059636/108968632-50007c80-7681-11eb-9f54-e58ca5801c12.png",
-        "link": "https://github.com/Slideshow776/Spank-Fury"
+        "description": "Blip Blop er en remaster av et av de eldste videospillene i verdenshistorien.\nSpilleren kontrollerer en paddel på sin side av skjermen for å prøve å slå ballen bort fra seg selv, og score et mål ved å omgå den andre spillernes paddel. \n Spillet kan spilles alene, eller med en venn som deler samme enhet.\n Det er to spillemoduser som tilbys: Classic og Challenge. \n Classic er det klassiske spillet Pong, og Challenge byr på tilfeldige utfordringer.",
+        "image": "https://user-images.githubusercontent.com/4059636/144676115-15454b2d-7d1e-4622-b8c7-d8f8fde906ff.png",
+        "link": "https://play.google.com/store/apps/details?id=no.sandramoen.blipblop"
     },
     "game1": {
         "id": 1,
         "title": "Spank Fury!",
         "subtitle": "Et kinky beat 'em up spill.",
         "description": "Underdanige kommer fra høyre og venstre, og man må spanke dem før de blir lei seg. Kan du få mer poeng enn mystiske kinksteren? Finnes både på Desktop og på Android.",
-        "image": "https://user-images.githubusercontent.com/4059636/144676115-15454b2d-7d1e-4622-b8c7-d8f8fde906ff.png",
-        "link": "https://play.google.com/store/apps/details?id=no.sandramoen.blipblop"
+        "image": "https://user-images.githubusercontent.com/4059636/108968632-50007c80-7681-11eb-9f54-e58ca5801c12.png",
+        "link": "https://github.com/Slideshow776/Spank-Fury/tree/master/release"
     },
     "game2": {
         "id": 2,
