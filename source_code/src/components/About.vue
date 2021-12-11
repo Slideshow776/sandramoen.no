@@ -56,7 +56,7 @@
         <tr>
           <td valign="top" style="width:5rem;">2020</td>
           <td>
-            <span>Systemutvikler</span>,
+            <span>Utvikler</span>,
             <a target="_blank" href="https://www.knowit.no/tjenester/experience/">Knowit Experience</a>, Oslo (pågående)
           </td>
         </tr>
@@ -273,24 +273,12 @@
         </tr>
       </table>
     </div>
-    <div v-if="showMe"></div>
-    <!-- The hack div -->
   </div>
 </template>
 
 <script>
 export default {
   name: 'About',
-  data () {
-    return {
-      showMe: true
-    }
-  },
-  mounted () {
-    setTimeout(() => {
-      this.showMe = false
-    }, 500) // A hack to force rerendering of component so that it displays properly
-  },
   methods: {
     trackInteraction (label) {
       window.dataLayer.push({ event: String(label) })
@@ -339,6 +327,7 @@ li {
   padding-top: 2rem;
   max-width: 50rem;
   margin: auto;
+  margin-bottom: 2.5em;
 }
 
 img {
