@@ -25,8 +25,9 @@ This project uses [Vue Material](https://vuematerial.io)
 ## Updating the webpage
 To add new games add information in file 'source_code/src/assets/games.json'
 ## Updating:
-* run `npm run build`
-* Copy everything from `source_code/dist` and paste it in the top directory `/`.
+1. run `npm run build` in `source_code/src`.
+2. Copy everything from `source_code/dist` and paste it in the top directory `/`.
+3. push to `git`.
 
 
 ## Google Tag Manager events:
