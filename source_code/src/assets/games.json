@@ -1,114 +1,122 @@
 {
-    "game0": {
-        "id": 0,
-        "title": "Hunted",
-        "subtitle": "Et mønster-gjenkjennelse spill",
-        "description": "Strandet i en fremmed skog på en ukjent planet, kjemper du for å overleve mens du blir jaktet på.\nDette er et lavt/middels-tempo mønstergjenkjenningsspill med pikselkunst og voice-over fortelling.\nInspirert av spill som 'Hvor er Wally?'.",
-        "image": "https://user-images.githubusercontent.com/4059636/157231043-a7ab66d4-c56d-4498-847e-206d0223c33e.png",
-        "link": "https://play.google.com/store/apps/details?id=no.sandramoen.hunted"
-    },
-    "game1": {
-        "id": 1,
-        "title": "Binary Non-Binary",
-        "subtitle": "Et top-down puzzle spill hvor du kontrollerer begge karakterene med samme piltaster.",
-        "description": "Spillet ble laget som et innslag i Global Game Jam 2022 Oslo, og hadde flere på teamet. Temaet for game jam'en var 'Dualitet'.",
-        "image": "https://user-images.githubusercontent.com/4059636/151701109-c0a11a9d-26d9-4803-9a4b-acaad35b452e.png",
-        "link": "https://play.google.com/store/apps/details?id=no.sandramoen.ggj2022oslo"
-    },
-    "game2": {
-        "id": 2,
-        "title": "YOLO",
-        "subtitle": "Et super-kort spill om hvor lang tid noens liv kan være.",
-        "description": "Dette spillet ble laget på ca. 48 timer. Det er ikke det fineste spillet mitt, men det har sin sjarm.",
-        "image": "https://user-images.githubusercontent.com/4059636/150122924-6bff2e72-d46a-4ffd-a00a-58cc508516eb.png",
-        "link": "https://github.com/Slideshow776/YOLO/tree/main/release"
-    },
-    "game3": {
-        "id": 3,
-        "title": "Blip Blop",
-        "subtitle": "Et revisert Pong spill.",
-        "description": "Blip Blop er en remaster av et av de eldste videospillene i verdenshistorien.\nSpilleren kontrollerer en paddel på sin side av skjermen for å prøve å slå ballen bort fra seg selv, og score et mål ved å omgå den andre spillernes paddel. \n Spillet kan spilles alene, eller med en venn som deler samme enhet.\n Det er to spillemoduser som tilbys: Classic og Challenge. \n Classic er det klassiske spillet Pong, og Challenge byr på tilfeldige utfordringer.",
-        "image": "https://user-images.githubusercontent.com/4059636/144676115-15454b2d-7d1e-4622-b8c7-d8f8fde906ff.png",
-        "link": "https://play.google.com/store/apps/details?id=no.sandramoen.blipblop"
-    },
-    "game4": {
-        "id": 4,
-        "title": "Spank Fury!",
-        "subtitle": "Et kinky beat 'em up spill.",
-        "description": "Underdanige kommer fra høyre og venstre, og man må spanke dem før de blir lei seg. Kan du få mer poeng enn mystiske kinksteren? Finnes både på Desktop og på Android.",
-        "image": "https://user-images.githubusercontent.com/4059636/108968632-50007c80-7681-11eb-9f54-e58ca5801c12.png",
-        "link": "https://github.com/Slideshow776/Spank-Fury/tree/master/release"
-    },
-    "game5": {
-        "id": 5,
-        "title": "Where's My Video Call?",
-        "subtitle": "En 2D endless runner",
-        "description": "Utviklet i Global Game Jam 2021, Oslo. \nDu ruller ut av sengen, i bare undertøyet, når du springer så finner du mer og mer av klærne dine mens du hopper og dukker unna rot i leiligheten din. Når du \"dør\" så går du på jobb i hva enn du klarte å finne å ha på deg. Kan du komme deg på jobb fullt påkledd?",
-        "image": "https://user-images.githubusercontent.com/4059636/108968794-8807bf80-7681-11eb-8389-52530e764193.png",
-        "link": "https://play.google.com/store/apps/details?id=no.sandramoen.ggj2021oslo"
-    },
-    "game6": {
-        "id": 6,
-        "title": "Korona Kablam-i!",
-        "subtitle": "Et COVID-19 tematisert shoot 'em up arkadespill",
-        "description": "Dette er et COVID-19 tematisert shoot'em up arkadespill. Spilleren kontrollerer et bittelite romskip og skyter på koronavirus. Spreng så mange du kan for å få en high score.",
-        "image": "https://user-images.githubusercontent.com/4059636/93439722-2f144e00-f8cf-11ea-90f5-228214718a9a.png",
-        "link": "https://github.com/Slideshow776/Korona-Kablam-i/tree/master/release"
-    },
-    "game7": {
-        "id": 7,
-        "title": "Love Entity",
-        "subtitle": "Et idle/inkrementell spill som handler om kjærlighet og medfølelse",
-        "description": "Love Entity er et kjærlighetstematisert inkrementellt spill. Spilleren håndterer inkrementelle gevinster ved å klikke og å ta vare på ulike ressurser for å generere så mye kjærlighet som overhode mulig. Oppløftningspoeng gir spilleren en sjangse til å begynne på ny med en bonus som videre øker akkumulasjonen for kjærlighet. Laget i Kotlin vha. rammeverket LibGDX.",
-        "image": "https://user-images.githubusercontent.com/4059636/93439955-7569ad00-f8cf-11ea-931f-7dc267afbea3.png",
-        "link": "https://play.google.com/store/apps/details?id=no.sandramoen.loveentity"
-    },
-    "game8": {
-        "id": 8,
-        "title": "Suicide?",
-        "subtitle": "Livs-tematisert historie-drevet spill",
-        "description": "Dette historie-drevet spillet utforsker følelser, behov og selvmord. Laget i Kotlin vha. rammeverket LibGDX.",
-        "image": "https://user-images.githubusercontent.com/4059636/93445030-1b69e700-f8d1-11ea-8107-37531ff028af.png",
-        "link": "https://github.com/Slideshow776/Suicide"
-    },
-    "game9": {
-        "id": 9,
-        "title": "Kattespill",
-        "subtitle": "Bevegelseskontroll spill",
-        "description": "Dette bevegelseskontroll spillet handler om å føre kattene inn i de grønne portalene ved hjelp av å snu og vende på din enhet. Når alle kattene har kommet inn i en portal slutter nivået og man får poeng etter dyktighet. Dette er mitt første publiserte mobilspill, og var laget i Java vha. rammeverkene LibGDX og Box2D.",
-        "image": "https://user-images.githubusercontent.com/4059636/93440732-dbeecb00-f8cf-11ea-8d17-24efa7cc6765.png",
-        "link": "https://play.google.com/store/apps/details?id=com.sandra.game&hl=en"
-    },
-    "game10": {
-        "id": 10,
-        "title": "Flappy Bird",
-        "subtitle": "En kopi av det berømte spillet Flappy Bird",
-        "description": "Et sommerprosjekt hvor jeg lagde min egen kopi av Flappy Bird for å teste mine programmeringsevner samt bruk av rammeverkene LibGDX og Box2D. Dette frustrerende spillet kan få de mest tolmodige av oss til å kaste maskinen i veggen.",
-        "image": "https://user-images.githubusercontent.com/4059636/93444264-d0e86a80-f8d0-11ea-9f8c-5fae252930d3.png",
-        "link": "https://github.com/Slideshow776/Legacy-Games/tree/master/Flappy%20Bird"
-    },
-    "game11": {
-        "id": 11,
-        "title": "Postmania",
-        "subtitle": "Et pakkeleveringsspill",
-        "description": "Et pakkeleveringsspill som handler om en postansatt som skal levere rett pakke til rett kunde. Spillet spilles over flere runder, og utfordringen er å kunne holde ut lengst mulig før kundene blir for sure.",
-        "image": "https://user-images.githubusercontent.com/4059636/93441857-26704780-f8d0-11ea-8b49-d7055c0a7241.png",
-        "link": "https://github.com/Slideshow776/Legacy-Games/tree/master/Postmania"
-    },
-    "game12": {
-        "id": 12,
-        "title": "Jannes Eventyr",
-        "subtitle": "2004 Bacheloroppgave",
-        "description": "Et basic side-scrolling eventyr. Dette var mitt første seriøse spillprosjekt og min bacheloroppgave. Jeg var fast bestemt på å gjøre denne egendefinerte oppgaven, og det ble en suksess. Det er et basisk side-skrolling platformer eventyr spill. Spillet er oppkalt etter en kjær venn av meg. Kan hende ikke fungere med nyere Java-versjoner",
-        "image": "https://user-images.githubusercontent.com/4059636/93442762-66372f00-f8d0-11ea-8814-42b13a6d7530.png",
-        "link": "https://github.com/Slideshow776/Legacy-Games/tree/master/Janne's%20Adventure"
-    },
-    "game13": {
-        "id": 13,
-        "title": "Game Station",
-        "subtitle": "En kolleksjon av flere småspill",
-        "description": "Et kooperativt prosjekt hvor vi øvde på grunnleggende Java programmering. Kolleksjonen inneholder et kretskortspill hvor målet er å slutte kretsen, et Hangmanspill, et barnevennlig minnespill hvor man skal få to like, den klassiske Minesweeper og alles favoritt Tetris",
-        "image": "https://user-images.githubusercontent.com/4059636/93443530-9bdc1800-f8d0-11ea-8fce-4b7720d6d404.png",
-        "link": "https://github.com/Slideshow776/Legacy-Games/tree/master/Game%20Station"
-    }
+  "game14": {
+    "id": 14,
+    "title": "LibGDX Jam #20",
+    "subtitle": "Et kort utforskningsspill",
+    "description": "Gravd under jorden hjelper du et skjelett å finne kroppen sin. Dette spillet var min deltakelse i LibGDX miljøet sitt Game Jam nummer 20.",
+    "image": "https://user-images.githubusercontent.com/4059636/159717092-0c17971b-da23-49c5-849b-b039f10dc589.gif",
+    "link": "https://sandramoen.itch.io/libgdx-jam-20"
+  },
+  "game0": {
+    "id": 0,
+    "title": "Hunted",
+    "subtitle": "Et mønster-gjenkjennelse spill",
+    "description": "Strandet i en fremmed skog på en ukjent planet, kjemper du for å overleve mens du blir jaktet på.\nDette er et lavt/middels-tempo mønstergjenkjenningsspill med pikselkunst og voice-over fortelling.\nInspirert av spill som 'Hvor er Wally?'.",
+    "image": "https://user-images.githubusercontent.com/4059636/157231043-a7ab66d4-c56d-4498-847e-206d0223c33e.png",
+    "link": "https://play.google.com/store/apps/details?id=no.sandramoen.hunted"
+  },
+  "game1": {
+    "id": 1,
+    "title": "Binary Non-Binary",
+    "subtitle": "Et top-down puzzle spill hvor du kontrollerer begge karakterene med samme piltaster.",
+    "description": "Spillet ble laget som et innslag i Global Game Jam 2022 Oslo, og hadde flere på teamet. Temaet for game jam'en var 'Dualitet'.",
+    "image": "https://user-images.githubusercontent.com/4059636/151701109-c0a11a9d-26d9-4803-9a4b-acaad35b452e.png",
+    "link": "https://play.google.com/store/apps/details?id=no.sandramoen.ggj2022oslo"
+  },
+  "game2": {
+    "id": 2,
+    "title": "YOLO",
+    "subtitle": "Et super-kort spill om hvor lang tid noens liv kan være.",
+    "description": "Dette spillet ble laget på ca. 48 timer. Det er ikke det fineste spillet mitt, men det har sin sjarm.",
+    "image": "https://user-images.githubusercontent.com/4059636/150122924-6bff2e72-d46a-4ffd-a00a-58cc508516eb.png",
+    "link": "https://github.com/Slideshow776/YOLO/tree/main/release"
+  },
+  "game3": {
+    "id": 3,
+    "title": "Blip Blop",
+    "subtitle": "Et revisert Pong spill.",
+    "description": "Blip Blop er en remaster av et av de eldste videospillene i verdenshistorien.\nSpilleren kontrollerer en paddel på sin side av skjermen for å prøve å slå ballen bort fra seg selv, og score et mål ved å omgå den andre spillernes paddel. \n Spillet kan spilles alene, eller med en venn som deler samme enhet.\n Det er to spillemoduser som tilbys: Classic og Challenge. \n Classic er det klassiske spillet Pong, og Challenge byr på tilfeldige utfordringer.",
+    "image": "https://user-images.githubusercontent.com/4059636/144676115-15454b2d-7d1e-4622-b8c7-d8f8fde906ff.png",
+    "link": "https://play.google.com/store/apps/details?id=no.sandramoen.blipblop"
+  },
+  "game4": {
+    "id": 4,
+    "title": "Spank Fury!",
+    "subtitle": "Et kinky beat 'em up spill.",
+    "description": "Underdanige kommer fra høyre og venstre, og man må spanke dem før de blir lei seg. Kan du få mer poeng enn mystiske kinksteren? Finnes både på Desktop og på Android.",
+    "image": "https://user-images.githubusercontent.com/4059636/108968632-50007c80-7681-11eb-9f54-e58ca5801c12.png",
+    "link": "https://github.com/Slideshow776/Spank-Fury/tree/master/release"
+  },
+  "game5": {
+    "id": 5,
+    "title": "Where's My Video Call?",
+    "subtitle": "En 2D endless runner",
+    "description": "Utviklet i Global Game Jam 2021, Oslo. \nDu ruller ut av sengen, i bare undertøyet, når du springer så finner du mer og mer av klærne dine mens du hopper og dukker unna rot i leiligheten din. Når du \"dør\" så går du på jobb i hva enn du klarte å finne å ha på deg. Kan du komme deg på jobb fullt påkledd?",
+    "image": "https://user-images.githubusercontent.com/4059636/108968794-8807bf80-7681-11eb-8389-52530e764193.png",
+    "link": "https://play.google.com/store/apps/details?id=no.sandramoen.ggj2021oslo"
+  },
+  "game6": {
+    "id": 6,
+    "title": "Korona Kablam-i!",
+    "subtitle": "Et COVID-19 tematisert shoot 'em up arkadespill",
+    "description": "Dette er et COVID-19 tematisert shoot'em up arkadespill. Spilleren kontrollerer et bittelite romskip og skyter på koronavirus. Spreng så mange du kan for å få en high score.",
+    "image": "https://user-images.githubusercontent.com/4059636/93439722-2f144e00-f8cf-11ea-90f5-228214718a9a.png",
+    "link": "https://github.com/Slideshow776/Korona-Kablam-i/tree/master/release"
+  },
+  "game7": {
+    "id": 7,
+    "title": "Love Entity",
+    "subtitle": "Et idle/inkrementell spill som handler om kjærlighet og medfølelse",
+    "description": "Love Entity er et kjærlighetstematisert inkrementellt spill. Spilleren håndterer inkrementelle gevinster ved å klikke og å ta vare på ulike ressurser for å generere så mye kjærlighet som overhode mulig. Oppløftningspoeng gir spilleren en sjangse til å begynne på ny med en bonus som videre øker akkumulasjonen for kjærlighet. Laget i Kotlin vha. rammeverket LibGDX.",
+    "image": "https://user-images.githubusercontent.com/4059636/93439955-7569ad00-f8cf-11ea-931f-7dc267afbea3.png",
+    "link": "https://play.google.com/store/apps/details?id=no.sandramoen.loveentity"
+  },
+  "game8": {
+    "id": 8,
+    "title": "Suicide?",
+    "subtitle": "Livs-tematisert historie-drevet spill",
+    "description": "Dette historie-drevet spillet utforsker følelser, behov og selvmord. Laget i Kotlin vha. rammeverket LibGDX.",
+    "image": "https://user-images.githubusercontent.com/4059636/93445030-1b69e700-f8d1-11ea-8107-37531ff028af.png",
+    "link": "https://github.com/Slideshow776/Suicide"
+  },
+  "game9": {
+    "id": 9,
+    "title": "Kattespill",
+    "subtitle": "Bevegelseskontroll spill",
+    "description": "Dette bevegelseskontroll spillet handler om å føre kattene inn i de grønne portalene ved hjelp av å snu og vende på din enhet. Når alle kattene har kommet inn i en portal slutter nivået og man får poeng etter dyktighet. Dette er mitt første publiserte mobilspill, og var laget i Java vha. rammeverkene LibGDX og Box2D.",
+    "image": "https://user-images.githubusercontent.com/4059636/93440732-dbeecb00-f8cf-11ea-8d17-24efa7cc6765.png",
+    "link": "https://play.google.com/store/apps/details?id=com.sandra.game&hl=en"
+  },
+  "game10": {
+    "id": 10,
+    "title": "Flappy Bird",
+    "subtitle": "En kopi av det berømte spillet Flappy Bird",
+    "description": "Et sommerprosjekt hvor jeg lagde min egen kopi av Flappy Bird for å teste mine programmeringsevner samt bruk av rammeverkene LibGDX og Box2D. Dette frustrerende spillet kan få de mest tolmodige av oss til å kaste maskinen i veggen.",
+    "image": "https://user-images.githubusercontent.com/4059636/93444264-d0e86a80-f8d0-11ea-9f8c-5fae252930d3.png",
+    "link": "https://github.com/Slideshow776/Legacy-Games/tree/master/Flappy%20Bird"
+  },
+  "game11": {
+    "id": 11,
+    "title": "Postmania",
+    "subtitle": "Et pakkeleveringsspill",
+    "description": "Et pakkeleveringsspill som handler om en postansatt som skal levere rett pakke til rett kunde. Spillet spilles over flere runder, og utfordringen er å kunne holde ut lengst mulig før kundene blir for sure.",
+    "image": "https://user-images.githubusercontent.com/4059636/93441857-26704780-f8d0-11ea-8b49-d7055c0a7241.png",
+    "link": "https://github.com/Slideshow776/Legacy-Games/tree/master/Postmania"
+  },
+  "game12": {
+    "id": 12,
+    "title": "Jannes Eventyr",
+    "subtitle": "2004 Bacheloroppgave",
+    "description": "Et basic side-scrolling eventyr. Dette var mitt første seriøse spillprosjekt og min bacheloroppgave. Jeg var fast bestemt på å gjøre denne egendefinerte oppgaven, og det ble en suksess. Det er et basisk side-skrolling platformer eventyr spill. Spillet er oppkalt etter en kjær venn av meg. Kan hende ikke fungere med nyere Java-versjoner",
+    "image": "https://user-images.githubusercontent.com/4059636/93442762-66372f00-f8d0-11ea-8814-42b13a6d7530.png",
+    "link": "https://github.com/Slideshow776/Legacy-Games/tree/master/Janne's%20Adventure"
+  },
+  "game13": {
+    "id": 13,
+    "title": "Game Station",
+    "subtitle": "En kolleksjon av flere småspill",
+    "description": "Et kooperativt prosjekt hvor vi øvde på grunnleggende Java programmering. Kolleksjonen inneholder et kretskortspill hvor målet er å slutte kretsen, et Hangmanspill, et barnevennlig minnespill hvor man skal få to like, den klassiske Minesweeper og alles favoritt Tetris",
+    "image": "https://user-images.githubusercontent.com/4059636/93443530-9bdc1800-f8d0-11ea-8fce-4b7720d6d404.png",
+    "link": "https://github.com/Slideshow776/Legacy-Games/tree/master/Game%20Station"
+  }
 }
