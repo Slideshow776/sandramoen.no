@@ -25,6 +25,13 @@
       >
         <img class="icons" src="../assets/github_icon.png" alt="github icon" loading="lazy" />
       </a>
+      <a
+        href="https://sandramoen.itch.io"
+        style="color:white"
+        @mousedown="trackInteraction('ItchIO')"
+      >
+        <img class="icons" src="../assets/itchio_icon.png" alt="itchio icon" loading="lazy" />
+      </a>
     </div>
   </div>
 </template>
