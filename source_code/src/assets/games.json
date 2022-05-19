@@ -1,11 +1,20 @@
-{"game15": {
-  "id": 15,
-  "title": "Soot the Loot",
-  "subtitle": "Samle den fallende looten!",
-  "description": "Innlevering til game jamm'en 'Jam Develop to Help - Ukraina'. Temaet var 'Sterkere sammen'.\nDu spiller som en gruppe sot-vesener som følger en vellykket eventyrer tilbake ut av en dungeon, og samler looten de har som faller på gulvet. ",
-  "image": "https://user-images.githubusercontent.com/4059636/161377286-4a63d7b0-a545-4129-89d1-a328a60f1f36.gif",
-  "link": "https://sandramoen.itch.io/soot-the-loot"
-},
+{
+  "game16": {
+    "id": 15,
+    "title": "Trans Agent X",
+    "subtitle": "Norsk skeiv kunst som var på utsillingen \"Grenseløs\"",
+    "description": "Trans Agent X er et sci-fi videospill om transpersoner som besøker den post-apokalyptiske jorden på jakt etter en tapt gjenstand.\nHver fiende i spillet skildrer et narrativt fragment av \"behandling\" som transpersoner i norge ble utsatt for på Rikshospitalet.\nDisse fragmentene er samlet fra det norske transkjønnede miljøet, norske medier og personlig erfaring.\nVideospillet utforsker temaer som vekst, helbredelse og traumer.",
+    "image": "https://user-images.githubusercontent.com/4059636/167386118-fb0aa9a8-067a-4aed-adc6-982df19d17db.gif",
+    "link": "https://github.com/Slideshow776/Trans-Agent-X"
+  },
+  "game15": {
+    "id": 15,
+    "title": "Soot the Loot",
+    "subtitle": "Samle den fallende looten!",
+    "description": "Innlevering til game jamm'en 'Jam Develop to Help - Ukraina'. Temaet var 'Sterkere sammen'.\nDu spiller som en gruppe sot-vesener som følger en vellykket eventyrer tilbake ut av en dungeon, og samler looten de har som faller på gulvet. ",
+    "image": "https://user-images.githubusercontent.com/4059636/161377286-4a63d7b0-a545-4129-89d1-a328a60f1f36.gif",
+    "link": "https://sandramoen.itch.io/soot-the-loot"
+  },
   "game14": {
     "id": 14,
     "title": "LibGDX Jam #20",
