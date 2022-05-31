@@ -32,6 +32,13 @@
       >
         <img class="icons" src="../assets/itchio_icon.png" alt="itchio icon" loading="lazy" />
       </a>
+      <a
+        href="https://twitter.com/sandra7764"
+        style="color:white"
+        @mousedown="trackInteraction('Twitter')"
+      >
+        <img class="icons" src="../assets/twitter_icon.png" alt="twitter icon" loading="lazy" />
+      </a>
     </div>
   </div>
 </template>
