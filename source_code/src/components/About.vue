@@ -214,7 +214,7 @@
         <!-- Rammeverk -->
         <tr>
           <td valign="top" style="width:5rem;">Enonic XP</td>
-          <td>Mye erfaring, har lisens</td>
+          <td>Mye erfaring, hadde lisens</td>
         </tr>
         <tr>
           <td>Sass</td>

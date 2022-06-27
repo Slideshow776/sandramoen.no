@@ -24,7 +24,7 @@
           target="_blank"
           :href="item.link"
           @mousedown="trackInteraction(item.title)"
-        >Spillet kan lastes ned her</a>
+        >Spillet finnes her</a>
       </md-card-content>
     </md-card>
   </div>

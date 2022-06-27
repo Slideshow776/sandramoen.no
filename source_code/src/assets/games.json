@@ -1,6 +1,14 @@
 {
+  "game17": {
+    "id": 17,
+    "title": "Pig Joust",
+    "subtitle": "En liten kopi av det gamle arkadespillet \"Joust\"",
+    "description": "Mitt innlegg i game jam'en \"LibGDX Jam #20\".\nMan spiller som en ridder som rir på en gris, og man skal beseire alle dragene i kongeriket. For å drepe en drage må man kollidere me den fra en høyere posisjon",
+    "image": "https://user-images.githubusercontent.com/4059636/175880979-05871499-8461-4df5-ab79-446ed0ff7dba.gif",
+    "link": "https://sandramoen.itch.io/pig-joust"
+  },
   "game16": {
-    "id": 15,
+    "id": 16,
     "title": "Trans Agent X",
     "subtitle": "Norsk skeiv kunst som var på utsillingen \"Grenseløs\"",
     "description": "Trans Agent X er et sci-fi videospill om transpersoner som besøker den post-apokalyptiske jorden på jakt etter en tapt gjenstand.\nHver fiende i spillet skildrer et narrativt fragment av \"behandling\" som transpersoner i norge ble utsatt for på Rikshospitalet.\nDisse fragmentene er samlet fra det norske transkjønnede miljøet, norske medier og personlig erfaring.\nVideospillet utforsker temaer som vekst, helbredelse og traumer.",
