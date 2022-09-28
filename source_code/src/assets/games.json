@@ -1,9 +1,17 @@
 {
+  "game18": {
+    "id": 18,
+    "title": "Slime in a Silo",
+    "subtitle": "En endless jumper",
+    "description": "Laget på en ukelang game jam og i sammarbeid med Daniele Conti. Han programmerte, og jeg gjorde kunsten.",
+    "image": "",
+    "link": "https://sandramoen.itch.io/slime-in-a-silo"
+  },
   "game17": {
     "id": 17,
     "title": "Pig Joust",
     "subtitle": "En liten kopi av det gamle arkadespillet \"Joust\"",
-    "description": "Mitt innlegg i game jam'en \"LibGDX Jam #20\".\nMan spiller som en ridder som rir på en gris, og man skal beseire alle dragene i kongeriket. For å drepe en drage må man kollidere me den fra en høyere posisjon",
+    "description": "Mitt innlegg i game jam'en \"LibGDX Jam #21\".\nMan spiller som en ridder som rir på en gris, og man skal beseire alle dragene i kongeriket. For å drepe en drage må man kollidere me den fra en høyere posisjon",
     "image": "https://user-images.githubusercontent.com/4059636/175880979-05871499-8461-4df5-ab79-446ed0ff7dba.gif",
     "link": "https://sandramoen.itch.io/pig-joust"
   },
