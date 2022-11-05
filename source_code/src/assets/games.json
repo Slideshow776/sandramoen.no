@@ -4,7 +4,7 @@
     "title": "Terfenstein 3D",
     "subtitle": "Retro FPS",
     "description": "Terfenstein 3D er en kort retro første-persons skytespill om å rømme fra en kjønnsfascistisk konsentrasjonsleir. Slipp løs ditt innestengte raseri over de kjønnskritiske tyrannene med et arsenal av dødelige våpen og taktikker i rendyrket lykke.",
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/2192840/header.jpg?t=1667247225",
+    "image": "https://user-images.githubusercontent.com/4059636/200133991-84551e8a-26b2-4126-8695-40a6689ac5de.png",
     "link": "https://store.steampowered.com/app/2192840/Terfenstein_3D/?beta=0"
   },
   "game18": {
@@ -146,7 +146,7 @@
   "game12": {
     "id": 12,
     "title": "Jannes Eventyr",
-    "subtitle": "2004 Bacheloroppgave",
+    "subtitle": "2014 Bacheloroppgave",
     "description": "Et basic side-scrolling eventyr. Dette var mitt første seriøse spillprosjekt og min bacheloroppgave. Jeg var fast bestemt på å gjøre denne egendefinerte oppgaven, og det ble en suksess. Det er et basisk side-skrolling platformer eventyr spill. Spillet er oppkalt etter en kjær venn av meg. Kan hende ikke fungere med nyere Java-versjoner",
     "image": "https://user-images.githubusercontent.com/4059636/93442762-66372f00-f8d0-11ea-8814-42b13a6d7530.png",
     "link": "https://github.com/Slideshow776/Legacy-Games/tree/master/Janne's%20Adventure"
