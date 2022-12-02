@@ -1,4 +1,12 @@
 {
+  "game20": {
+    "id": 20,
+    "title": "In the Bag",
+    "subtitle": "Hack and slash'er",
+    "description": "Deltok i en spilljam 'Game Off 2022'. Mitt bidrag var som kunstner.",
+    "image": "https://user-images.githubusercontent.com/4059636/205299389-d146c6b9-49b8-40d1-b1d8-0de87ee5258b.gif",
+    "link": "https://sandramoen.itch.io/in-the-bag"
+  },
   "game19": {
     "id": 19,
     "title": "Terfenstein 3D",
@@ -41,7 +49,7 @@
   },
   "game14": {
     "id": 14,
-    "title": "LibGDX Jam #20",
+    "title": "Underground Skelly",
     "subtitle": "Et kort utforskningsspill",
     "description": "Gravd under jorden hjelper du et skjelett å finne kroppen sin. Dette spillet var min deltakelse i LibGDX miljøet sitt Game Jam nummer 20.",
     "image": "https://user-images.githubusercontent.com/4059636/159717092-0c17971b-da23-49c5-849b-b039f10dc589.gif",
