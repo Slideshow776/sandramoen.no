@@ -1,4 +1,12 @@
 {
+  "game21": {
+    "id": 21,
+    "title": "Kæmpenisse",
+    "subtitle": "Slossespill",
+    "description": "Et kort prosjekt i den ukelange game jam'en 'LibGDX Game Jam #23', Jeg deltok som kunstner. Inspirert av Street Fighter 2.",
+    "image": "https://user-images.githubusercontent.com/4059636/209936614-67ab9b87-9e4a-4952-8682-ef5b69f7dd92.gif",
+    "link": "https://sandramoen.itch.io/kampenisse"
+  },
   "game20": {
     "id": 20,
     "title": "In the Bag",
