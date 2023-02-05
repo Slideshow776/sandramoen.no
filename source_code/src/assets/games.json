@@ -1,4 +1,12 @@
 {
+  "game22": {
+    "id": 22,
+    "title": "Roots of Empathy",
+    "subtitle": "Action-puzzle",
+    "description": "Spillet ble laget som et innslag i Global Game Jam 2023 Oslo, og hadde flere på teamet som gjorde all lyden man hører. Temaet for game jam'en var 'Roots'.",
+    "image": "https://user-images.githubusercontent.com/4059636/151701109-c0a11a9d-26d9-4803-9a4b-acaad35b452e.png",
+    "link": "https://user-images.githubusercontent.com/4059636/216830226-e62bc244-5501-41ab-ba97-bf9957ae21a4.gif"
+  },
   "game21": {
     "id": 21,
     "title": "Kæmpenisse",
