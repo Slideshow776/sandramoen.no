@@ -53,17 +53,17 @@
         <h3>Arbeidserfaring</h3>
       </div>
       <table>
-        <tr>
-          <td valign="top" style="width:5rem;">2020</td>
+        <!-- <tr>
+          <td valign="top" style="width:5rem;">2020-2023</td>
           <td>
             <span>Utvikler</span>,
-            <a target="_blank" href="https://www.knowit.no/tjenester/experience/">Knowit Experience</a>, Oslo (pågående)
+            <a target="_blank" href="https://www.knowit.no/tjenester/experience/">Knowit Experience</a>, Oslo
           </td>
         </tr>
         <tr>
-          <td valign="top">mars</td>
+          <td valign="top">mars-mars</td>
           <td>Frontend utvikling av webbaserte løsninger</td>
-        </tr>
+        </tr> -->
         <tr>
           <td valign="top" style="width:5rem;">2019-2020</td>
           <td>
