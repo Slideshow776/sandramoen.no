@@ -39,6 +39,13 @@
       >
         <img class="icons" src="../assets/twitter_icon.png" alt="twitter icon" loading="lazy" />
       </a>
+      <a
+        href="https://store.steampowered.com/curator/43659177-Sandra-Moen/"
+        style="color:white"
+        @mousedown="trackInteraction('Steam')"
+      >
+        <img class="icons" src="../assets/steam_icon.png" alt="twitter icon" loading="lazy" />
+      </a>
     </div>
   </div>
 </template>
