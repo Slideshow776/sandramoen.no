@@ -1,4 +1,12 @@
 {
+  "game23": {
+    "id": 23,
+    "title": "Wedding Survivor",
+    "subtitle": "En Vampire Survivor klone",
+    "description": "Et kort prosjekt i den ukelange game jam'en 'LibGDX Game Jam #24', Jeg deltok som kunstner. Inspirert av Vampire Survivor.",
+    "image": "https://user-images.githubusercontent.com/4059636/228152971-10aa25a2-46ed-4486-bc2d-e4c0a1e7f0d0.gif",
+    "link": "https://sandramoen.itch.io/wedding-survivor"
+  },
   "game22": {
     "id": 22,
     "title": "Roots of Empathy",
