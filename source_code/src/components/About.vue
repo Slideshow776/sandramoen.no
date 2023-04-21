@@ -53,7 +53,7 @@
         <h3>Arbeidserfaring</h3>
       </div>
       <table>
-        <!-- <tr>
+        <tr>
           <td valign="top" style="width:5rem;">2020-2023</td>
           <td>
             <span>Utvikler</span>,
@@ -62,8 +62,8 @@
         </tr>
         <tr>
           <td valign="top">mars-mars</td>
-          <td>Frontend utvikling av webbaserte løsninger</td>
-        </tr> -->
+          <td>Frontend utvikling av webbaserte løsninger for forskjellige kunder som konsulent</td>
+        </tr>
         <tr>
           <td valign="top" style="width:5rem;">2019-2020</td>
           <td>
