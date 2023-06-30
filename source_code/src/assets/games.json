@@ -1,4 +1,12 @@
 {
+  "game24": {
+    "id": 24,
+    "title": "The Royal Game of Ur",
+    "subtitle": "Et digitalt brettspill for to spillere",
+    "description": "Et kort prosjekt i den ukelange game jam'en 'LibGDX Game Jam #25', Jeg deltok som kunstner.",
+    "image": "https://github.com/fourlastor-jams/libgdx-jam-25/assets/4059636/7e5d3a4d-8e92-445b-8705-3b7b6d73393d",
+    "link": "https://sandramoen.itch.io/the-royal-game-of-ur"
+  },
   "game23": {
     "id": 23,
     "title": "Wedding Survivor",
