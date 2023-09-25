@@ -1,4 +1,12 @@
 {
+  "game25": {
+    "id": 25,
+    "title": "A Terrifying Knight",
+    "subtitle": "En hack & slash clicker",
+    "description": "Et kort prosjekt i den ukelange game jam'en 'LibGDX Game Jam #26', Jeg deltok som designer og programmør.",
+    "image": "https://github-production-user-asset-6210df.s3.amazonaws.com/4059636/270278547-8baf7150-be54-4ab8-8527-d2bd19d6b7ac.png",
+    "link": "https://sandramoen.itch.io/a-terrifying-knight"
+  },
   "game24": {
     "id": 24,
     "title": "The Royal Game of Ur",
