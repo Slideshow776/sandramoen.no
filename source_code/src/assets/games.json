@@ -1,4 +1,12 @@
 {
+  "game30": {
+    "id": 30,
+    "title": "The Mask",
+    "subtitle": "En poetisk spillopplevelse",
+    "description": "Kort prosjekt med formål å lære meg spillmotoren Godot. Min egen kreative kreasjon av Boomshine.",
+    "image": "https://img.itch.zone/aW1nLzE2MzIxNTA3LnBuZw==/315x250%23c/ldGukr.png",
+    "link": "https://sandramoen.itch.io/the-mask"
+  },
   "game29": {
     "id": 29,
     "title": "Underworld Racer",
