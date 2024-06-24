@@ -1,4 +1,12 @@
 {
+  "game31": {
+    "id": 31,
+    "title": "Squid Jam",
+    "subtitle": "En minimalistisk, pek-og-klikk horror game jam metafiksjon",
+    "description": "Et kort prosjekt i den ukelange game jam'en 'LibGDX Game Jam #29', Jeg deltok som kunstner og designer. Inspirert av 'Gods Will Be Watching'.",
+    "image": "https://img.itch.zone/aW1nLzE2NjY3NjQyLnBuZw==/315x250%23c/vNPBOA.png",
+    "link": "https://sandramoen.itch.io/squid-jam"
+  },
   "game30": {
     "id": 30,
     "title": "The Mask",
@@ -11,7 +19,7 @@
     "id": 29,
     "title": "Underworld Racer",
     "subtitle": "Et retro racer spill med et 'underworld' tema.",
-    "description": "Et kort prosjekt i den ukelange game jam'en 'LibGDX Game Jam #27', Jeg deltok som kunstner og designer. Laget med pseudo 3D teknologi fra åtti tallet.",
+    "description": "Et kort prosjekt i den ukelange game jam'en 'LibGDX Game Jam #28', Jeg deltok som kunstner og designer. Laget med pseudo 3D teknologi fra åtti tallet.",
     "image": "https://img.itch.zone/aW1nLzE1NDk3MDUxLnBuZw==/315x250%23c/y85K97.png",
     "link": "https://sandramoen.itch.io/libgdx-jam-28"
   },
