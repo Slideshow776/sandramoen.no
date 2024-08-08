@@ -1,4 +1,12 @@
 {
+  "game32": {
+    "id": 32,
+    "title": "Asteroids",
+    "subtitle": "Retro action-spill",
+    "description": "Min egen kopi som jeg laget for å lære mer om Godot. Inspirert av GDQuest",
+    "image": "https://img.itch.zone/aW1nLzE3MjUwMzU4LnBuZw==/315x250%23c/2d4t7P.png",
+    "link": "https://sandramoen.itch.io/asteroids"
+  },
   "game31": {
     "id": 31,
     "title": "Squid Jam",
