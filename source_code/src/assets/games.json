@@ -1,4 +1,12 @@
 {
+  "game33": {
+    "id": 33,
+    "title": "Café Encounter",
+    "subtitle": "En dialog-valg opplevelse",
+    "description": "For å lære mer om Godot lagde jeg denne korte text-opplevelsen. Inspirert av GDQuest",
+    "image": "https://img.itch.zone/aW1nLzE3MzAyMzAyLnBuZw==/315x250%23c/CuSCDY.png",
+    "link": "https://sandramoen.itch.io/cafe-encounter"
+  },
   "game32": {
     "id": 32,
     "title": "Asteroids",
