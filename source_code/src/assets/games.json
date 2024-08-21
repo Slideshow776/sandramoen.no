@@ -1,4 +1,12 @@
 {
+  "game34": {
+    "id": 34,
+    "title": "SPÆis Invaders",
+    "subtitle": "Ekreativ iterasjon av klassikener 'Space Invaders'",
+    "description": "For å lære mer om Godot lagde jeg denne kopien. Inspirert av GDQuest",
+    "image": "https://img.itch.zone/aW1nLzE3NDczNzY0LnBuZw==/315x250%23c/vEgmCs.png",
+    "link": "https://sandramoen.itch.io/space-invaders"
+  },
   "game33": {
     "id": 33,
     "title": "Café Encounter",
