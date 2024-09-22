@@ -1,8 +1,16 @@
 {
+  "game35": {
+    "id": 35,
+    "title": "Four Elements",
+    "subtitle": "En enkel koble prikkene spillet med de fire elementalene",
+    "description": "Et kort prosjekt i den ukelange game jam'en 'LibGDX Game Jam #29', Jeg deltok som kunstner og designer.",
+    "image": "https://img.itch.zone/aW1nLzE3ODc3MjY4LmdpZg==/original/QWNZQI.gif",
+    "link": "https://sandramoen.itch.io/four-elements"
+  },
   "game34": {
     "id": 34,
     "title": "SPÆis Invaders",
-    "subtitle": "Ekreativ iterasjon av klassikener 'Space Invaders'",
+    "subtitle": "En kreativ iterasjon av klassikener 'Space Invaders'",
     "description": "For å lære mer om Godot lagde jeg denne kopien. Inspirert av GDQuest",
     "image": "https://img.itch.zone/aW1nLzE3NDczNzY0LnBuZw==/315x250%23c/vEgmCs.png",
     "link": "https://sandramoen.itch.io/space-invaders"

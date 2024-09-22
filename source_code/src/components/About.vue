@@ -5,11 +5,13 @@
     <h3>Sandra Moen</h3>
     <hr />
     <p id="ingress">
-      Fra egen erfaring med profesjonelle, akademiske og personlige prosjekter har jeg lært at det er viktig
-      å ha god struktur med vektlegging på at andre enkelt skal kunne lese og forstå koden min. Selv
-      om jeg er en utvikler har jeg også en fot innenfor design, det er avgjørende at programmet ikke
-      bare følger beste praksis, men også svarer til brukerforventninger og i tillegg gir en god opplevelse.
-      De beste timene er om morgenene, god diett, kropp, sinn og samhold gir en jevn og balansert
+      Fra egen erfaring med profesjonelle, akademiske og personlige prosjekter
+      har jeg lært at det er viktig å ha god struktur med vektlegging på at
+      andre enkelt skal kunne lese og forstå koden min. Selv om jeg er en
+      utvikler har jeg også en fot innenfor design, det er avgjørende at
+      programmet ikke bare følger beste praksis, men også svarer til
+      brukerforventninger og i tillegg gir en god opplevelse. De beste timene er
+      om morgenene, god diett, kropp, sinn og samhold gir en jevn og balansert
       arbeidsflyt.
     </p>
     <div style="text-align:left">
@@ -21,33 +23,39 @@
         <tr>
           <td valign="top" style="width:5rem;">2016-2018</td>
           <td>
-            <span>Mastergrad i Computer Science</span>, Universitetet i Stavanger
+            <span>Mastergrad i Computer Science</span>, Universitetet i
+            Stavanger
           </td>
         </tr>
         <tr>
           <td></td>
           <td>
-            <span>Opplæring i:</span> algoritmeteori, distribuerte systemer, statistikk, data-intensive systemer,
-            websikkerhet, data mining, simulering og ytelsesanalyse, trådløs kommunikasjon
+            <span>Opplæring i:</span> algoritmeteori, distribuerte systemer,
+            statistikk, data-intensive systemer, websikkerhet, data mining,
+            simulering og ytelsesanalyse, trådløs kommunikasjon
           </td>
         </tr>
       </table>
+
       <table>
         <tr>
           <td valign="top" style="width:5rem;">2011-2016</td>
           <td>
-            <span>Bachelorgrad i Dataingeniørfag</span> Universitetet i Stavanger
+            <span>Bachelorgrad i Dataingeniørfag</span> Universitetet i
+            Stavanger
           </td>
         </tr>
         <tr>
           <td></td>
           <td>
-            <span>Opplæring i:</span> programmering, algoritmer, programvareutvikling, matematikk, kjemi, fysikk,
-            bedriftsøkonomi, webprogrammering og interaksjonsdesign, datagrafikk, kommunikasjonsnettverk,
-            operativsystemer, databaser, statistikk
+            <span>Opplæring i:</span> programmering, algoritmer,
+            programvareutvikling, matematikk, kjemi, fysikk, bedriftsøkonomi,
+            webprogrammering og interaksjonsdesign, datagrafikk,
+            kommunikasjonsnettverk, operativsystemer, databaser, statistikk
           </td>
         </tr>
       </table>
+
       <div class="title">
         <div class="markers"></div>
         <h3>Arbeidserfaring</h3>
@@ -57,12 +65,19 @@
           <td valign="top" style="width:5rem;">2020-2023</td>
           <td>
             <span>Utvikler</span>,
-            <a target="_blank" href="https://www.knowit.no/tjenester/experience/">Knowit Experience</a>, Oslo
+            <a
+              target="_blank"
+              href="https://www.knowit.no/tjenester/experience/"
+              >Knowit Experience</a
+            >, Oslo
           </td>
         </tr>
         <tr>
           <td valign="top">mars-mars</td>
-          <td>Frontend utvikling av webbaserte løsninger for forskjellige kunder som konsulent</td>
+          <td>
+            Frontend utvikling av webbaserte løsninger for forskjellige kunder
+            som konsulent
+          </td>
         </tr>
         <tr>
           <td valign="top" style="width:5rem;">2019-2020</td>
@@ -79,29 +94,34 @@
               target="_blank"
               href="https://market.enonic.com/vendors/enonic/event-theme"
               @mousedown="trackInteraction('EventTheme')"
-            >markedsapplikasjon</a>, lagd i Enonic XP vha. Javascript og
-            Thymeleaf. Migreringsarbeid og videreutvikling av kundenettsider vba. Enonic XP.
+              >markedsapplikasjon</a
+            >, lagd i Enonic XP vha. Javascript og Thymeleaf. Migreringsarbeid
+            og videreutvikling av kundenettsider vba. Enonic XP.
           </td>
         </tr>
         <tr>
           <td valign="top" style="width:5rem;">2018-2019</td>
           <td>
             <span>Data Engineer</span>,
-            <a target="_blank" href="https://redperformance.no">RED Performance</a>, Oslo
+            <a target="_blank" href="https://redperformance.no"
+              >RED Performance</a
+            >, Oslo
           </td>
         </tr>
         <tr>
           <td valign="top">juni-mars</td>
           <td>
-            Full-Stack utvikling av webbaserte interne forretningssystemer, lagd i Vue.js (Javascript) og
-            Python. Webanalyse og sporing med fokus på Google Analytics og Google Tag Manager.
+            Full-Stack utvikling av webbaserte interne forretningssystemer, lagd
+            i Vue.js (Javascript) og Python. Webanalyse og sporing med fokus på
+            Google Analytics og Google Tag Manager.
           </td>
         </tr>
         <tr>
           <td valign="top" style="width:5rem;">2017</td>
           <td>
             <span>Frontend Webutvikler</span>,
-            <a target="_blank" href="https://www.knowit.no">Knowit</a>, Stavanger
+            <a target="_blank" href="https://www.knowit.no">Knowit</a>,
+            Stavanger
           </td>
         </tr>
         <tr>
@@ -112,10 +132,13 @@
               target="_blank"
               href="http://olapp.no/#/"
               @mousedown="trackInteraction('Ølapp')"
-            >webapplikasjon</a> for kunde, lagd i React-Redux (Javascript)
+              >webapplikasjon</a
+            >
+            for kunde, lagd i React-Redux (Javascript)
           </td>
         </tr>
       </table>
+
       <div class="title">
         <div class="markers"></div>
         <h3>Masteroppgave</h3>
@@ -124,9 +147,10 @@
         <tr>
           <td valign="top" style="width:5rem;">tittel</td>
           <td>
-            <span
-              style="font-weight:bold"
-            >Automated collection of multi-source spatial information for emergency management</span>
+            <span style="font-weight:bold"
+              >Automated collection of multi-source spatial information for
+              emergency management</span
+            >
           </td>
         </tr>
         <tr>
@@ -136,11 +160,14 @@
               target="_blank"
               href="https://github.com/Slideshow776/DATMAS-V18"
               @mousedown="trackInteraction('Masteroppgave')"
-            >Prototype</a> av analyseverktøy i forsøk på å oppdage når influensasesongen starter vha. datasett
-            og API fra flere kilder
+              >Prototype</a
+            >
+            av analyseverktøy i forsøk på å oppdage når influensasesongen
+            starter vha. datasett og API fra flere kilder
           </td>
         </tr>
       </table>
+
       <div class="title">
         <div class="markers"></div>
         <h3>Bacheloroppgave</h3>
@@ -160,7 +187,8 @@
               target="_blank"
               href="https://github.com/Slideshow776/Legacy-Games/tree/master/Janne's%20Adventure"
               @mousedown="trackInteraction('Bacheloroppgave')"
-            >sidescrolling platformer</a>
+              >sidescrolling platformer</a
+            >
             spill
           </td>
         </tr>
@@ -190,6 +218,10 @@
         </tr>
         <tr>
           <td>Kotlin</td>
+          <td>Mye erfaring</td>
+        </tr>
+        <tr>
+          <td>GDscript</td>
           <td>Mye erfaring</td>
         </tr>
         <tr>
@@ -248,7 +280,8 @@
               target="_blank"
               href="https://www.youtube.com/watch?v=oUHmHHSbLbU"
               @mousedown="trackInteraction('Fekting')"
-            >Fekting</a>
+              >Fekting</a
+            >
           </td>
         </tr>
       </table>
@@ -261,15 +294,11 @@
         <!-- Språk -->
         <tr>
           <td valign="top" style="width:4.6rem;">Norsk</td>
-          <td>
-            <strong>Flytende</strong> muntlig og skriftlig
-          </td>
+          <td><strong>Flytende</strong> muntlig og skriftlig</td>
         </tr>
         <tr>
           <td>Engelsk</td>
-          <td>
-            <strong>Flytende</strong> muntlig og skriftlig
-          </td>
+          <td><strong>Flytende</strong> muntlig og skriftlig</td>
         </tr>
       </table>
     </div>
@@ -278,13 +307,13 @@
 
 <script>
 export default {
-  name: 'About',
+  name: "About",
   methods: {
-    trackInteraction (label) {
-      window.dataLayer.push({ event: String(label) })
+    trackInteraction(label) {
+      window.dataLayer.push({ event: String(label) });
     }
   }
-}
+};
 </script>
 
 <style scoped lang="scss">
