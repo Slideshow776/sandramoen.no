@@ -307,13 +307,13 @@
 
 <script>
 export default {
-  name: "About",
+  name: 'About',
   methods: {
-    trackInteraction(label) {
-      window.dataLayer.push({ event: String(label) });
+    trackInteraction (label) {
+      window.dataLayer.push({ event: String(label) })
     }
   }
-};
+}
 </script>
 
 <style scoped lang="scss">
