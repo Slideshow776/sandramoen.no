@@ -1,4 +1,12 @@
 {
+  "game37": {
+    "id": 37,
+    "title": "Shapelike",
+    "subtitle": "Et eventyr puzzle roguelike-like",
+    "description": "Et kort prosjekt i den ukelange game jam'en 'LibGDX Game Jam #31'.",
+    "image": "https://img.itch.zone/aW1nLzE4OTg5MzM4LnBuZw==/315x250%23c/TO7f9l.png",
+    "link": "https://sandramoen.itch.io/shapelike"
+  },
   "game36": {
     "id": 36,
     "title": "Secret Sugar",

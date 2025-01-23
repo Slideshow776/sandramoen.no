@@ -32,13 +32,13 @@
       >
         <img class="icons" src="../assets/itchio_icon.png" alt="itchio icon" loading="lazy" />
       </a>
-      <a
+      <!-- <a
         href="https://twitter.com/sandra7764"
         style="color:white"
         @mousedown="trackInteraction('Twitter')"
       >
         <img class="icons" src="../assets/twitter_icon.png" alt="twitter icon" loading="lazy" />
-      </a>
+      </a> -->
       <a
         href="https://store.steampowered.com/curator/43659177-Sandra-Moen/"
         style="color:white"
