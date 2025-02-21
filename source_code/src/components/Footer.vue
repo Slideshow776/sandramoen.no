@@ -44,7 +44,14 @@
         style="color:white"
         @mousedown="trackInteraction('Steam')"
       >
-        <img class="icons" src="../assets/steam_icon.png" alt="twitter icon" loading="lazy" />
+        <img class="icons" src="../assets/steam_icon.png" alt="steam icon" loading="lazy" />
+      </a>
+      <a
+        href="https://discord.gg/Uh8dCKyK3Q"
+        style="color:white"
+        @mousedown="trackInteraction('Discord')"
+      >
+        <img class="icons" src="../assets/discord_icon.png" alt="discord icon" loading="lazy" />
       </a>
     </div>
   </div>
