@@ -1,4 +1,12 @@
 {
+  "game39": {
+    "id": 39,
+    "title": "Storm & Sorcery",
+    "subtitle": "Et action en-knapps spill",
+    "description": "Et kort prosjekt i den ukelange game jam'en 'LibGDX Game Jam #32'.",
+    "image": "https://img.itch.zone/aW1nLzIwMzY0MTQyLnBuZw==/315x250%23c/kPfYVV.png",
+    "link": "https://sandramoen.itch.io/storm-and-sorcery"
+  },
   "game38": {
     "id": 38,
     "title": "Waffle my Bubble",
