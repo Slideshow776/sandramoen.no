@@ -1,4 +1,12 @@
 {
+  "game40": {
+    "id": 40,
+    "title": "DUDE, Awaken",
+    "subtitle": "En survival parodi på 'Dune Awakening'",
+    "description": "Et kort prosjekt i den ukelange game jam'en 'LibGDX Game Jam #33'.",
+    "image": "https://img.itch.zone/aW1nLzIxODAxMjM3LnBuZw==/315x250%23c/E%2BSjr0.png",
+    "link": "https://sandramoen.itch.io/libgdx-jam-33"
+  },
   "game39": {
     "id": 39,
     "title": "Storm & Sorcery",
