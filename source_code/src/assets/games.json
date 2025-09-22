@@ -1,4 +1,12 @@
 {
+  "game41": {
+    "id": 41,
+    "title": "Dungoen Typo",
+    "subtitle": "Et kort skrive/tastespill",
+    "description": "Kort prosjekt i den ukelange game jam'en 'LibGDX Game Jam #34'.",
+    "image": "https://img.itch.zone/aW1nLzIzMjU4NjM0LnBuZw==/315x250%23c/yhQ%2BMR.png",
+    "link": "https://sandramoen.itch.io/libgdx-jam-34"
+  },
   "game40": {
     "id": 40,
     "title": "DUDE, Awaken",
