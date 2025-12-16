@@ -1,4 +1,12 @@
 {
+  "game42": {
+    "id": 42,
+    "title": "Baa The Brig",
+    "subtitle": "En kort flokk/boid simulering spill-prototype",
+    "description": "Kort prosjekt i den ukelange game jam'en 'LibGDX Game Jam #35'.",
+    "image": "https://img.itch.zone/aW1nLzI0NTQ2MTQ1LnBuZw==/315x250%23c/v3GCvx.png",
+    "link": "https://sandramoen.itch.io/libgdx-jam-35"
+  },
   "game41": {
     "id": 41,
     "title": "Dungoen Typo",
