@@ -1,4 +1,12 @@
 {
+  "game43": {
+    "id": 43,
+    "title": "Intra Cranial Ex-ray",
+    "subtitle": "Ett kort torturspill om masker...",
+    "description": "Lagd på en helg for Global Game Jam 2026",
+    "image": "https://img.itch.zone/aW1nLzI1MzE1MzY0LnBuZw==/315x250%23c/PpAasH.png",
+    "link": "https://sandramoen.itch.io/ggj2026"
+  },
   "game42": {
     "id": 42,
     "title": "Baa The Brig",
