@@ -1,4 +1,12 @@
 {
+  "game44": {
+    "id": 44,
+    "title": "Pinball Trio",
+    "subtitle": "Ett kort eksperimentellt pinball-spill",
+    "description": "Kort prosjekt i den ukelange game jam'en 'LibGDX Game Jam #36'.",
+    "image": "https://img.itch.zone/aW1nLzI2MjYzNDM5LnBuZw==/315x250%23c/gc76nh.png",
+    "link": "https://sandramoen.itch.io/libgdx-36"
+  },
   "game43": {
     "id": 43,
     "title": "Intra Cranial Ex-ray",
