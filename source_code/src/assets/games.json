@@ -1,4 +1,12 @@
 {
+  "game46": {
+    "id": 46,
+    "title": "Broken and the Beautiful",
+    "subtitle": "Ett kort rolig pusle-spill spill.",
+    "description": "Kort prosjekt i den ukelange game jam'en 'LibGDX Game Jam #38'.",
+    "image": "https://img.itch.zone/aW1nLzMwMTI0MjQ4LnBuZw==/315x250%23c/CehaNL.png",
+    "link": "https://sandramoen.itch.io/libgdx-jam-38"
+  },
   "game45": {
     "id": 45,
     "title": "Qixieverse Descent",
