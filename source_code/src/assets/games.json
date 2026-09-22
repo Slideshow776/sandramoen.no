@@ -269,7 +269,7 @@
     "subtitle": "Et mønster-gjenkjennelse spill",
     "description": "Strandet i en fremmed skog på en ukjent planet, kjemper du for å overleve mens du blir jaktet på.\nDette er et lavt/middels-tempo mønstergjenkjenningsspill med pikselkunst og voice-over fortelling.\nInspirert av spill som 'Hvor er Wally?'.",
     "image": "https://user-images.githubusercontent.com/4059636/157231043-a7ab66d4-c56d-4498-847e-206d0223c33e.png",
-    "link": "https://play.google.com/store/apps/details?id=no.sandramoen.hunted"
+    "link": "https://github.com/Slideshow776/Hunted/releases"
   },
   "game1": {
     "id": 1,
@@ -277,7 +277,7 @@
     "subtitle": "Et top-down puzzle spill hvor du kontrollerer begge karakterene med samme piltaster.",
     "description": "Spillet ble laget som et innslag i Global Game Jam 2022 Oslo, og hadde flere på teamet. Temaet for game jam'en var 'Dualitet'.",
     "image": "https://user-images.githubusercontent.com/4059636/151701109-c0a11a9d-26d9-4803-9a4b-acaad35b452e.png",
-    "link": "https://play.google.com/store/apps/details?id=no.sandramoen.ggj2022oslo"
+    "link": "https://github.com/Slideshow776/GGJ2022OSLO/releases/tag/v5.1.0"
   },
   "game2": {
     "id": 2,
@@ -293,7 +293,7 @@
     "subtitle": "Et revisert Pong spill.",
     "description": "Blip Blop er en remaster av et av de eldste videospillene i verdenshistorien.\nSpilleren kontrollerer en paddel på sin side av skjermen for å prøve å slå ballen bort fra seg selv, og score et mål ved å omgå den andre spillernes paddel. \n Spillet kan spilles alene, eller med en venn som deler samme enhet.\n Det er to spillemoduser som tilbys: Classic og Challenge. \n Classic er det klassiske spillet Pong, og Challenge byr på tilfeldige utfordringer.",
     "image": "https://user-images.githubusercontent.com/4059636/144676115-15454b2d-7d1e-4622-b8c7-d8f8fde906ff.png",
-    "link": "https://play.google.com/store/apps/details?id=no.sandramoen.blipblop"
+    "link": "https://sandramoen.itch.io/blip-blop"
   },
   "game4": {
     "id": 4,
@@ -309,7 +309,7 @@
     "subtitle": "En 2D endless runner",
     "description": "Utviklet i Global Game Jam 2021, Oslo. \nDu ruller ut av sengen, i bare undertøyet, når du springer så finner du mer og mer av klærne dine mens du hopper og dukker unna rot i leiligheten din. Når du \"dør\" så går du på jobb i hva enn du klarte å finne å ha på deg. Kan du komme deg på jobb fullt påkledd?",
     "image": "https://user-images.githubusercontent.com/4059636/108968794-8807bf80-7681-11eb-8389-52530e764193.png",
-    "link": "https://play.google.com/store/apps/details?id=no.sandramoen.ggj2021oslo"
+    "link": "https://sandramoen.itch.io/wheres-my-video-call"
   },
   "game6": {
     "id": 6,
@@ -325,7 +325,7 @@
     "subtitle": "Et idle/inkrementell spill som handler om kjærlighet og medfølelse",
     "description": "Love Entity er et kjærlighetstematisert inkrementellt spill. Spilleren håndterer inkrementelle gevinster ved å klikke og å ta vare på ulike ressurser for å generere så mye kjærlighet som overhode mulig. Oppløftningspoeng gir spilleren en sjangse til å begynne på ny med en bonus som videre øker akkumulasjonen for kjærlighet. Laget i Kotlin vha. rammeverket LibGDX.",
     "image": "https://user-images.githubusercontent.com/4059636/93439955-7569ad00-f8cf-11ea-931f-7dc267afbea3.png",
-    "link": "https://play.google.com/store/apps/details?id=no.sandramoen.loveentity"
+    "link": "https://sandramoen.itch.io/love-entity"
   },
   "game8": {
     "id": 8,
@@ -339,9 +339,9 @@
     "id": 9,
     "title": "Kattespill",
     "subtitle": "Bevegelseskontroll spill",
-    "description": "Dette bevegelseskontroll spillet handler om å føre kattene inn i de grønne portalene ved hjelp av å snu og vende på din enhet. Når alle kattene har kommet inn i en portal slutter nivået og man får poeng etter dyktighet. Dette er mitt første publiserte mobilspill, og var laget i Java vha. rammeverkene LibGDX og Box2D.",
+    "description": "Dette bevegelseskontroll spillet handler om å føre kattene inn i de grønne portalene ved hjelp av å snu og vende på din enhet. Når alle kattene har kommet inn i en portal slutter nivået og man får poeng etter dyktighet. Dette er mitt første publiserte mobilspill, og var laget i Java vha. rammeverkene LibGDX og Box2D. Spillet er gammelt og må bygges på egen maskin for å spille.",
     "image": "https://user-images.githubusercontent.com/4059636/93440732-dbeecb00-f8cf-11ea-8d17-24efa7cc6765.png",
-    "link": "https://play.google.com/store/apps/details?id=com.sandra.game&hl=en"
+    "link": "https://github.com/Slideshow776/Cat_game"
   },
   "game10": {
     "id": 10,
