@@ -1,4 +1,11 @@
-{
+{"game47": {
+    "id": 47,
+    "title": "We Remain",
+    "subtitle": "En roguelike, dekk-bygger, autobattler.",
+    "description": "En prototyp av et langtids-prosjekt.",
+    "image": "https://img.itch.zone/aW1nLzMwMjE5MzA1LnBuZw==/315x250%23c/mPFF9k.png",
+    "link": "https://sandramoen.itch.io/we-remain"
+  },
   "game46": {
     "id": 46,
     "title": "Broken and the Beautiful",
